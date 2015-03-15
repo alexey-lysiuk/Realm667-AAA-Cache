@@ -4,6 +4,7 @@ Git-based cache of assets from www.realm667.com repository used in [Realm667 - A
 
 |ID|Name|Comment|
 |---|---|---|
+||**Armory: Doom Style**||
 |[342](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0342.zip)|40mm Grenade Launcher||
 |[585](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0585.zip)|AA12 Shotgun||
 |[260](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0260.zip)|Action MachineGun||
@@ -101,6 +102,7 @@ Git-based cache of assets from www.realm667.com repository used in [Realm667 - A
 |[274](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0274.zip)|Western Shotgun||
 |[765](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0765.zip)|Winchester Yellowboy||
 |[228](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0228.zip)|Zombieman Rifle||
+||**Armory: Heretic / Hexen Style**||
 |[327](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0327.zip)|Apotheosis||
 |[817](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0817.zip)|Arbalest of the Ancients||
 |[323](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0323.zip)|Blood Scepter||
@@ -123,6 +125,7 @@ Git-based cache of assets from www.realm667.com repository used in [Realm667 - A
 |[638](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0638.zip)|Thunder Fork||
 |[510](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0510.zip)|Vile Staff||
 |[473](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0473.zip)|Wand of Embers||
+||**Armory: Other Sources / Styles**||
 |[697](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0697.zip)|Bearkiller||
 |[253](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0253.zip)|Blaster Rifle||
 |[241](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0241.zip)|Devastator||
@@ -151,6 +154,7 @@ Git-based cache of assets from www.realm667.com repository used in [Realm667 - A
 |[878](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0878.zip)|Swarm Plasma Gun||
 |[252](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0252.zip)|Tesla Cannon||
 |[283](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0283.zip)|TommyGun||
+||**Beastiary: Doom Style**||
 |[7](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0007.zip)|Afrit||
 |[8](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0008.zip)|Agathodemon||
 |[316](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0316.zip)|Agaures||
@@ -348,6 +352,7 @@ Git-based cache of assets from www.realm667.com repository used in [Realm667 - A
 |[730](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0730.zip)|Zombie Scientist|Excluded|
 |[107](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0107.zip)|ZombieTank||
 |[554](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0554.zip)|ZSpecOps||
+||**Beastiary: Heretic / Hexen Style**||
 |[6](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0006.zip)|Acolyte||
 |[10](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0010.zip)|Apprentice of D'Sparil||
 |[13](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0013.zip)|Avatar||
@@ -402,6 +407,7 @@ Git-based cache of assets from www.realm667.com repository used in [Realm667 - A
 |[355](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0355.zip)|Vampire||
 |[103](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0103.zip)|Wraith||
 |[607](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0607.zip)|Zardaz||
+||**Beastiary: Strife Style**||
 |[657](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0657.zip)|Black Ops||
 |[604](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0604.zip)|Dark Inquisitor||
 |[863](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0863.zip)|Elite Guard||
@@ -410,6 +416,7 @@ Git-based cache of assets from www.realm667.com repository used in [Realm667 - A
 |[338](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0338.zip)|Paladin||
 |[637](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0637.zip)|Prison Guard||
 |[909](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0909.zip)|Rebels Pack||
+||**Item Store: PowerUps & Artifacts**||
 |[391](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0391.zip)|AmmoSphere||
 |[827](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0827.zip)|Ankh of Life||
 |[392](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0392.zip)|Armor Sphere||
@@ -460,11 +467,13 @@ Git-based cache of assets from www.realm667.com repository used in [Realm667 - A
 |[673](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0673.zip)|Tome of the Forsaken||
 |[414](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0414.zip)|Tome of the Unholy||
 |[580](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0580.zip)|Turbo Sphere||
+||**Item Store: Keys & Puzzle**||
 |[867](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0867.zip)|Cross Keys||
 |[710](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0710.zip)|Doom 3 Keycards||
 |[825](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0825.zip)|Skull Orbs||
 |[826](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0826.zip)|Supply Chest Key||
 |[558](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0558.zip)|Various Doom Keys||
+||**Item Store: Others**||
 |[490](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0490.zip)|Adrenaline Kit||
 |[375](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0375.zip)|Ammo Belt||
 |[437](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0437.zip)|Armor Set||
@@ -523,6 +532,7 @@ Git-based cache of assets from www.realm667.com repository used in [Realm667 - A
 |[881](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0881.zip)|Swarmers||
 |[489](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0489.zip)|Tech Armor||
 |[831](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0831.zip)|Vitality Serum||
+||**Prop Stop: Technical**||
 |[450](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0450.zip)|Beach Umbrella||
 |[449](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0449.zip)|Box||
 |[347](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0347.zip)|Broken Lamp||
@@ -552,6 +562,7 @@ Git-based cache of assets from www.realm667.com repository used in [Realm667 - A
 |[467](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0467.zip)|Trash Cans||
 |[714](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0714.zip)|UAC Holograms||
 |[364](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0364.zip)|Zapper||
+||**Prop Stop: Vegetation**||
 |[917](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0917.zip)|Bushes||
 |[676](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0676.zip)|Cacti||
 |[644](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0644.zip)|Cactus||
@@ -573,6 +584,7 @@ Git-based cache of assets from www.realm667.com repository used in [Realm667 - A
 |[679](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0679.zip)|Small Trees and Bushes||
 |[528](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0528.zip)|Stalagmites and Stalactite||
 |[562](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0562.zip)|Winter Tree Spawner||
+||**Prop Stop: Light Sources**||
 |[819](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0819.zip)|Black Torch||
 |[784](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0784.zip)|Bronze Lamps||
 |[801](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0801.zip)|Candle Color Variations||
@@ -597,6 +609,7 @@ Git-based cache of assets from www.realm667.com repository used in [Realm667 - A
 |[459](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0459.zip)|Torch Variations||
 |[700](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0700.zip)|Doom Wall Torches||
 |[363](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0363.zip)|Yellow Lamp||
+||**Prop Stop: Gore & Corpses**||
 |[353](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0353.zip)|Bloody Chain (PSX Doom)||
 |[365](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0365.zip)|Bloody Heads||
 |[619](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0619.zip)|Bone Pile||
@@ -649,6 +662,7 @@ Git-based cache of assets from www.realm667.com repository used in [Realm667 - A
 |[424](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0424.zip)|Tortured Baron||
 |[548](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0548.zip)|Upside Down Corpses||
 |[727](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0727.zip)|Wolfenstein Gore||
+||**Prop Stop: Hell & Magic**||
 |[728](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0728.zip)|Banners||
 |[345](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0345.zip)|Bible||
 |[346](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0346.zip)|Bloody Chalice||
@@ -677,6 +691,7 @@ Git-based cache of assets from www.realm667.com repository used in [Realm667 - A
 |[702](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0702.zip)|Strife Bloody Columns||
 |[354](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0354.zip)|Tentacle Barrier||
 |[861](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0861.zip)|Warrior Statue||
+||**SFX Shoppe: Elemental Effects**||
 |[335](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0335.zip)|Bubble Boiling||
 |[306](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0306.zip)|Clouds||
 |[847](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0847.zip)|Doom Terrain Splashes|Excluded|
@@ -690,6 +705,7 @@ Git-based cache of assets from www.realm667.com repository used in [Realm667 - A
 |[665](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0665.zip)|Thunder Portal||
 |[904](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0904.zip)|Toxic Clouds||
 |[667](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0667.zip)|Underwater Bubbles||
+||**SFX Shoppe: Particle Spawners**||
 |[668](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0668.zip)|Casing Spawners||
 |[662](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0662.zip)|Forcefield Laserbeams||
 |[925](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0925.zip)|Fountain of Rejuvenation||
@@ -702,6 +718,7 @@ Git-based cache of assets from www.realm667.com repository used in [Realm667 - A
 |[197](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0197.zip)|Stronghold PowerPad||
 |[799](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0799.zip)|Swarm Spawner||
 |[870](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0870.zip)|Teleport Smoke Spawner||
+||**SFX Shoppe: Weather Generators**||
 |[666](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0666.zip)|Ash Spawner||
 |[707](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0707.zip)|Cinder||
 |[275](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0275.zip)|Rain Simple||
