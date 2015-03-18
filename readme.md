@@ -89,7 +89,7 @@ Git-based cache of assets from www.realm667.com repository used in [Realm667 - A
 |[272](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0272.zip)|Sniper Rifle||
 |[250](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0250.zip)|SPAS-12||
 |[876](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0876.zip)|Spray Cannon||
-|[767](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0767.zip)|Strife Pistol|Excluded|
+|~~[767](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0767.zip)~~|~~Strife Pistol~~|Excluded from generated package|
 |[568](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0568.zip)|Stunner Rifle||
 |[402](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0402.zip)|Super Shotgun (KDiZD)||
 |[273](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0273.zip)|Swat Shotgun||
@@ -214,7 +214,7 @@ Git-based cache of assets from www.realm667.com repository used in [Realm667 - A
 |[43](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0043.zip)|Ethereal Soul||
 |[908](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0908.zip)|Exterminator||
 |[44](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0044.zip)|Fallen||
-|[688](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0688.zip)|Female Scientist|Excluded|
+|~~[688](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0688.zip)~~|~~Female Scientist~~|Excluded from generated package|
 |[488](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0488.zip)|Female Zombie Pack||
 |[410](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0410.zip)|Flamer Zombie||
 |[415](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0415.zip)|Flesh Spawn||
@@ -349,7 +349,7 @@ Git-based cache of assets from www.realm667.com repository used in [Realm667 - A
 |[911](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0911.zip)|Zombie Missile Tank||
 |[341](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0341.zip)|Zombie Plasma Tank||
 |[106](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0106.zip)|Zombie Railgunner||
-|[730](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0730.zip)|Zombie Scientist|Excluded|
+|~~[730](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0730.zip)~~|~~Zombie Scientist~~|Excluded from generated package|
 |[107](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0107.zip)|ZombieTank||
 |[554](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0554.zip)|ZSpecOps||
 ||**Beastiary: Heretic / Hexen Style**||
@@ -694,7 +694,7 @@ Git-based cache of assets from www.realm667.com repository used in [Realm667 - A
 ||**SFX Shoppe: Elemental Effects**||
 |[335](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0335.zip)|Bubble Boiling||
 |[306](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0306.zip)|Clouds||
-|[847](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0847.zip)|Doom Terrain Splashes|Excluded|
+|~~[847](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0847.zip)~~|~~Doom Terrain Splashes~~|Excluded from generated package|
 |[278](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0278.zip)|Ember||
 |[280](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0280.zip)|Fire||
 |[791](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0791.zip)|Fog||
