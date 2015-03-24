@@ -1,5 +1,6 @@
 |ID|Name|Preview|Comment|
 |---|---|---|---|
+||**Armory: Doom Style**|||
 |[342](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0342.zip)|40mm Grenade Launcher|![40mm Grenade Launcher](http://www.realm667.com//images/content/repository/armory/40mmGrenadeLauncher.png)||
 |[585](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0585.zip)|AA12 Shotgun|![AA12 Shotgun](http://www.realm667.com//images/content/repository/armory/AA12Shotgun.png)||
 |[260](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0260.zip)|Action MachineGun|![Action MachineGun](http://www.realm667.com//images/content/repository/armory/ActionMachineGun.png)||
@@ -34,20 +35,20 @@
 |[254](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0254.zip)|HandGrenade|![HandGrenade](http://www.realm667.com//images/content/repository/armory/HandGrenade.png)||
 |[760](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0760.zip)|Heavy Chaingun|![Heavy Chaingun](http://www.realm667.com//images/content/repository/armory/HChaingun.png)||
 |[803](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0803.zip)|Heavy Machinegun|![Heavy Machinegun](http://www.realm667.com//images/content/repository/armory/HeavyMachinegun.png)||
-|[255](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0255.zip)|HeavyRifle|![HeavyRifle](http://www.realm667.com//images/content/repository/armory/HeavyRifle.png)||
+|[255](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0255.zip)|Heavy Rifle|![Heavy Rifle](http://www.realm667.com//images/content/repository/armory/HeavyRifle.png)||
 |[508](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0508.zip)|Hellstorm Cannon|![Hellstorm Cannon](http://www.realm667.com//images/content/repository/armory/HellstormCannon.png)||
 |[719](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0719.zip)|Hunting Rifle|![Hunting Rifle](http://www.realm667.com//images/content/repository/armory/HuntingRifle.png)||
 |[315](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0315.zip)|iGun|![iGun](http://www.realm667.com//images/content/repository/armory/iGun.png)||
 |[381](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0381.zip)|Ionspray|![Ionspray](http://www.realm667.com//images/content/repository/armory/IonSpray.png)||
 |[239](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0239.zip)|Karasawa|![Karasawa](http://www.realm667.com//images/content/repository/armory/Karasawa.png)||
 |[247](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0247.zip)|Knife|![Knife](http://www.realm667.com//images/content/repository/armory/knife.png)||
-|[717](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0717.zip)|LandMine Layer|![LandMine Layer](http://www.realm667.com//images/content/repository/armory/LandMineLayer.png)||
+|[717](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0717.zip)|Landmine Layer|![Landmine Layer](http://www.realm667.com//images/content/repository/armory/LandMineLayer.png)||
 |[804](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0804.zip)|Light Machinegun|![Light Machinegun](http://www.realm667.com//images/content/repository/armory/LightMachinegun.png)||
 |[514](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0514.zip)|M16|![M16](http://www.realm667.com//images/content/repository/armory/M16.png)||
 |[600](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0600.zip)|M40A1 Sniper Rifle|![M40A1 Sniper Rifle](http://www.realm667.com//images/content/repository/armory/M40A1SniperRifle.png)||
 |[598](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0598.zip)|M79|![M79](http://www.realm667.com//images/content/repository/armory/M79.png)||
 |[265](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0265.zip)|Machete|![Machete](http://www.realm667.com//images/content/repository/armory/Machete.png)||
-|[233](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0233.zip)|MachineGun|![MachineGun](http://www.realm667.com//images/content/repository/armory/machinegun.png)||
+|[233](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0233.zip)|Machinegun|![Machinegun](http://www.realm667.com//images/content/repository/armory/machinegun.png)||
 |[521](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0521.zip)|Mag .60|![Mag .60](http://www.realm667.com//images/content/repository/armory/Mag60.png)||
 |[256](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0256.zip)|Mancubus Arm|![Mancubus Arm](http://www.realm667.com//images/content/repository/armory/MancubusArm.png)||
 |[761](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0761.zip)|Micro Uzi|![Micro Uzi](http://www.realm667.com//images/content/repository/armory/MicroUzi.png)||
@@ -60,13 +61,13 @@
 |[268](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0268.zip)|Nuclear Missile|![Nuclear Missile](http://www.realm667.com//images/content/repository/armory/NuclearMissile.png)||
 |[245](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0245.zip)|Pipe Bombs|![Pipe Bombs](http://www.realm667.com//images/content/repository/armory/pipebombs.png)||
 |[232](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0232.zip)|Plasma Beam|![Plasma Beam](http://www.realm667.com//images/content/repository/armory/plasmabeam.png)||
-|[313](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0313.zip)|PlasmaBolter|![PlasmaBolter](http://www.realm667.com//images/content/repository/armory/PlasmaBolter.png)||
+|[313](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0313.zip)|Plasma Bolter|![Plasma Bolter](http://www.realm667.com//images/content/repository/armory/PlasmaBolter.png)||
 |[763](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0763.zip)|Plasma Pistol|![Plasma Pistol](http://www.realm667.com//images/content/repository/armory/PlasmaPistol.png)||
 |[329](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0329.zip)|Plasma Shotgun|![Plasma Shotgun](http://www.realm667.com//images/content/repository/armory/PlasmaShotgun.png)||
 |[509](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0509.zip)|Prox Launcher|![Prox Launcher](http://www.realm667.com//images/content/repository/armory/ProxLauncher.png)||
 |[764](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0764.zip)|Pulse Nailgun|![Pulse Nailgun](http://www.realm667.com//images/content/repository/armory/PulseNailgun.png)||
 |[522](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0522.zip)|Pulse Rifle|![Pulse Rifle](http://www.realm667.com//images/content/repository/armory/PulseRifle.png)||
-|[659](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0659.zip)|Pulse Rifle|![Pulse Rifle](http://www.realm667.com//images/content/repository/armory/PulseRifle2.png)||
+|[659](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0659.zip)|Pulse Rifle UAC|![Pulse Rifle UAC](http://www.realm667.com//images/content/repository/armory/PulseRifle2.png)||
 |[244](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0244.zip)|Pump-Action Shotgun|![Pump-Action Shotgun](http://www.realm667.com//images/content/repository/armory/pumpactionshotgun.png)||
 |[374](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0374.zip)|Railgun|![Railgun](http://www.realm667.com//images/content/repository/armory/Railgun.png)||
 |[718](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0718.zip)|Raptor Handgun|![Raptor Handgun](http://www.realm667.com//images/content/repository/armory/RaptorHandgun.png)||
@@ -84,7 +85,7 @@
 |[272](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0272.zip)|Sniper Rifle|![Sniper Rifle](http://www.realm667.com//images/content/repository/armory/SniperRifle.png)||
 |[250](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0250.zip)|SPAS-12|![SPAS-12](http://www.realm667.com//images/content/repository/armory/spas-12.png)||
 |[876](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0876.zip)|Spray Cannon|![Spray Cannon](http://www.realm667.com//images/content/repository/armory/SprayCannon.png)||
-|[767](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0767.zip)|Strife Pistol|![Strife Pistol](http://www.realm667.com//images/content/repository/armory/StrifePistol.png)||
+|~~[767](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0767.zip)~~|~~Strife Pistol~~|![Strife Pistol](http://www.realm667.com//images/content/repository/armory/StrifePistol.png)|Excluded from generated package|
 |[568](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0568.zip)|Stunner Rifle|![Stunner Rifle](http://www.realm667.com//images/content/repository/armory/StunnerRifle.png)||
 |[402](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0402.zip)|Super Shotgun (KDiZD)|![Super Shotgun (KDiZD)](http://www.realm667.com//images/content/repository/armory/kdizdsupershotgun.png)||
 |[273](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0273.zip)|Swat Shotgun|![Swat Shotgun](http://www.realm667.com//images/content/repository/armory/SwatShotgun.png)||
@@ -97,6 +98,7 @@
 |[274](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0274.zip)|Western Shotgun|![Western Shotgun](http://www.realm667.com//images/content/repository/armory/WesternShotgun.png)||
 |[765](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0765.zip)|Winchester Yellowboy|![Winchester Yellowboy](http://www.realm667.com//images/content/repository/armory/Yellowboy.png)||
 |[228](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0228.zip)|Zombieman Rifle|![Zombieman Rifle](http://www.realm667.com//images/content/repository/armory/zombiemanrifle.png)||
+||**Armory: Heretic / Hexen Style**|||
 |[327](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0327.zip)|Apotheosis|![Apotheosis](http://www.realm667.com//images/content/repository/armory/Apotheosis.png)||
 |[817](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0817.zip)|Arbalest of the Ancients|![Arbalest of the Ancients](http://www.realm667.com//images/content/repository/armory/Arbaleste.png)||
 |[323](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0323.zip)|Blood Scepter|![Blood Scepter](http://www.realm667.com//images/content/repository/armory/BloodScepter.png)||
@@ -119,34 +121,36 @@
 |[638](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0638.zip)|Thunder Fork|![Thunder Fork](http://www.realm667.com//images/content/repository/armory/ThunderFork.png)||
 |[510](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0510.zip)|Vile Staff|![Vile Staff](http://www.realm667.com//images/content/repository/armory/VileStaff.png)||
 |[473](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0473.zip)|Wand of Embers|![Wand of Embers](http://www.realm667.com//images/content/repository/armory/WandOfEmbers.png)||
+||**Armory: Other Sources / Styles**|||
 |[697](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0697.zip)|Bearkiller|![Bearkiller](http://www.realm667.com//images/content/repository/armory/Bearkiller.png)||
-|[267](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0267.zip)|Necrovision MG40|![Necrovision MG40](http://www.realm667.com//images/content/repository/armory/NecrovisionMG40.png)||
-|[253](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0253.zip)|BlasterRifle|![BlasterRifle](http://www.realm667.com//images/content/repository/armory/BlasterRifle.png)||
-|[230](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0230.zip)|Plasma Gun|![Plasma Gun](http://www.realm667.com//images/content/repository/armory/plasmagun.png)||
-|[241](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0241.zip)|Devastators|![Devastators](http://www.realm667.com//images/content/repository/armory/devastators.png)||
-|[258](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0258.zip)|PolyMorph|![PolyMorph](http://www.realm667.com//images/content/repository/armory/PolyMorph.png)||
+|[253](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0253.zip)|Blaster Rifle|![Blaster Rifle](http://www.realm667.com//images/content/repository/armory/BlasterRifle.png)||
+|[241](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0241.zip)|Devastator|![Devastator](http://www.realm667.com//images/content/repository/armory/devastators.png)||
 |[422](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0422.zip)|Deviation Launcher|![Deviation Launcher](http://www.realm667.com//images/content/repository/armory/Deviation%20Launcher.png)||
-|[269](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0269.zip)|Pulse Machinegun|![Pulse Machinegun](http://www.realm667.com//images/content/repository/armory/PulseMachinegun.png)||
 |[408](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0408.zip)|Drummle|![Drummle](http://www.realm667.com//images/content/repository/armory/Drummle.png)||
-|[270](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0270.zip)|PyroCannon|![PyroCannon](http://www.realm667.com//images/content/repository/armory/PyroCannon.png)||
 |[404](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0404.zip)|Enforcer|![Enforcer](http://www.realm667.com//images/content/repository/armory/Enforcer(Pistol).png)||
-|[229](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0229.zip)|Quake II Chaingun|![Quake II Chaingun](http://www.realm667.com//images/content/repository/armory/q2chaingun.png)||
-|[236](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0236.zip)|FlareGun|![FlareGun](http://www.realm667.com//images/content/repository/armory/flaregun.png)||
-|[314](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0314.zip)|Revolver PS|![Revolver PS](http://www.realm667.com//images/content/repository/armory/RevolverPS.png)||
+|[236](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0236.zip)|Flare Gun|![Flare Gun](http://www.realm667.com//images/content/repository/armory/flaregun.png)||
 |[686](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0686.zip)|G3|![G3](http://www.realm667.com//images/content/repository/armory/G3.png)||
-|[271](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0271.zip)|Saw Thrower|![Saw Thrower](http://www.realm667.com//images/content/repository/armory/SawThrower.png)||
 |[263](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0263.zip)|Hunter Shotgun|![Hunter Shotgun](http://www.realm667.com//images/content/repository/armory/HunterShotgun.png)||
-|[226](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0226.zip)|Sawed Off|![Sawed Off](http://www.realm667.com//images/content/repository/armory/sawedoff.png)||
 |[536](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0536.zip)|Jackbomb|![Jackbomb](http://www.realm667.com//images/content/repository/armory/Jackbomb.png)||
-|[240](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0240.zip)|Seeker Bazooka|![Seeker Bazooka](http://www.realm667.com//images/content/repository/armory/seekerbazooka.png)||
 |[238](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0238.zip)|M60|![M60](http://www.realm667.com//images/content/repository/armory/m60.png)||
-|[231](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0231.zip)|SMG|![SMG](http://www.realm667.com//images/content/repository/armory/smg.png)||
-|[249](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0249.zip)|MagnetSaw|![MagnetSaw](http://www.realm667.com//images/content/repository/armory/magnetsaw.png)||
-|[878](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0878.zip)|Swarm Plasma Gun|![Swarm Plasma Gun](http://www.realm667.com//images/content/repository/armory/SwarmPlasmaGun.png)||
-|[257](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0257.zip)|NailGun|![NailGun](http://www.realm667.com//images/content/repository/armory/Nailgun.png)||
-|[252](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0252.zip)|Tesla Cannon|![Tesla Cannon](http://www.realm667.com//images/content/repository/armory/teslacannon.png)||
+|[249](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0249.zip)|Magnet Saw|![Magnet Saw](http://www.realm667.com//images/content/repository/armory/magnetsaw.png)||
 |[266](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0266.zip)|Napalm Launcher|![Napalm Launcher](http://www.realm667.com//images/content/repository/armory/NapalmLauncher.png)||
+|[267](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0267.zip)|Necrovision MG40|![Necrovision MG40](http://www.realm667.com//images/content/repository/armory/NecrovisionMG40.png)||
+|[230](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0230.zip)|Plasma Gun|![Plasma Gun](http://www.realm667.com//images/content/repository/armory/plasmagun.png)||
+|[258](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0258.zip)|Poly Morph|![Poly Morph](http://www.realm667.com//images/content/repository/armory/PolyMorph.png)||
+|[257](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0257.zip)|Power Nailgun|![Power Nailgun](http://www.realm667.com//images/content/repository/armory/Nailgun.png)||
+|[269](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0269.zip)|Pulse Machinegun|![Pulse Machinegun](http://www.realm667.com//images/content/repository/armory/PulseMachinegun.png)||
+|[270](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0270.zip)|PyroCannon|![PyroCannon](http://www.realm667.com//images/content/repository/armory/PyroCannon.png)||
+|[229](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0229.zip)|Quake II Chaingun|![Quake II Chaingun](http://www.realm667.com//images/content/repository/armory/q2chaingun.png)||
+|[314](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0314.zip)|Revolver PS|![Revolver PS](http://www.realm667.com//images/content/repository/armory/RevolverPS.png)||
+|[271](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0271.zip)|Saw Thrower|![Saw Thrower](http://www.realm667.com//images/content/repository/armory/SawThrower.png)||
+|[226](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0226.zip)|Sawed Off|![Sawed Off](http://www.realm667.com//images/content/repository/armory/sawedoff.png)||
+|[240](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0240.zip)|Seeker Bazooka|![Seeker Bazooka](http://www.realm667.com//images/content/repository/armory/seekerbazooka.png)||
+|[231](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0231.zip)|SMG|![SMG](http://www.realm667.com//images/content/repository/armory/smg.png)||
+|[878](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0878.zip)|Swarm Plasma Gun|![Swarm Plasma Gun](http://www.realm667.com//images/content/repository/armory/SwarmPlasmaGun.png)||
+|[252](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0252.zip)|Tesla Cannon|![Tesla Cannon](http://www.realm667.com//images/content/repository/armory/teslacannon.png)||
 |[283](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0283.zip)|TommyGun|![TommyGun](http://www.realm667.com//images/content/repository/armory/TommyGun.png)||
+||**Beastiary: Doom Style**|||
 |[7](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0007.zip)|Afrit|![Afrit](http://www.realm667.com//images/content/repository/beastiary/Afrit.png)||
 |[8](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0008.zip)|Agathodemon|![Agathodemon](http://www.realm667.com//images/content/repository/beastiary/AgathoDemon.png)||
 |[316](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0316.zip)|Agaures|![Agaures](http://www.realm667.com//images/content/repository/beastiary/Agaures.png)||
@@ -168,30 +172,30 @@
 |[15](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0015.zip)|Belphegor|![Belphegor](http://www.realm667.com//images/content/repository/beastiary/Belphegor.png)||
 |[451](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0451.zip)|BFG Commando|![BFG Commando](http://www.realm667.com//images/content/repository/beastiary/BFGCommando.png)||
 |[16](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0016.zip)|Blood Demon|![Blood Demon](http://www.realm667.com//images/content/repository/beastiary/BloodDemon.png)||
-|[17](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0017.zip)|BloodFiend|![BloodFiend](http://www.realm667.com//images/content/repository/beastiary/BloodFiend.png)||
+|[17](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0017.zip)|Blood Fiend|![Blood Fiend](http://www.realm667.com//images/content/repository/beastiary/BloodFiend.png)||
 |[907](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0907.zip)|Blood Skull|![Blood Skull](http://www.realm667.com//images/content/repository/beastiary/BloodSkull.png)||
 |[309](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0309.zip)|Blot|![Blot](http://www.realm667.com//images/content/repository/beastiary/Blot.png)||
 |[18](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0018.zip)|Bruiser Demon|![Bruiser Demon](http://www.realm667.com//images/content/repository/beastiary/BruiserDemon.png)||
-|[20](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0020.zip)|CacoLich|![CacoLich](http://www.realm667.com//images/content/repository/beastiary/CacoLich.png)||
+|[20](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0020.zip)|Cacolich|![Cacolich](http://www.realm667.com//images/content/repository/beastiary/CacoLich.png)||
 |[19](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0019.zip)|Cacolantern|![Cacolantern](http://www.realm667.com//images/content/repository/beastiary/CacoLantern.png)||
 |[21](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0021.zip)|Catharsi|![Catharsi](http://www.realm667.com//images/content/repository/beastiary/Catharsi.png)||
 |[814](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0814.zip)|Chaingun Demon|![Chaingun Demon](http://www.realm667.com//images/content/repository/beastiary/ChaingunDemon.png)||
-|[22](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0022.zip)|ChaingunMajor|![ChaingunMajor](http://www.realm667.com//images/content/repository/beastiary/ChaingunMajor.png)||
+|[22](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0022.zip)|Chaingun Major|![Chaingun Major](http://www.realm667.com//images/content/repository/beastiary/ChaingunMajor.png)||
 |[194](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0194.zip)|Chaingun Spider|![Chaingun Spider](http://www.realm667.com//images/content/repository/beastiary/ChaingunSpider.png)||
 |[23](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0023.zip)|Chainsaw Zombie|![Chainsaw Zombie](http://www.realm667.com//images/content/repository/beastiary/ChainsawZombie.png)||
 |[436](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0436.zip)|Cheogh|![Cheogh](http://www.realm667.com//images/content/repository/beastiary/Cheogh.png)||
 |[620](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0620.zip)|Chesire Cacodemon|![Chesire Cacodemon](http://www.realm667.com//images/content/repository/beastiary/ChesireCacodemon.png)||
-|[24](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0024.zip)|CoreTentacles|![CoreTentacles](http://www.realm667.com//images/content/repository/beastiary/CoreTentacles.png)||
-|[25](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0025.zip)|CrackoDemon|![CrackoDemon](http://www.realm667.com//images/content/repository/beastiary/CrackoDemon.png)||
+|[24](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0024.zip)|Core Tentacles|![Core Tentacles](http://www.realm667.com//images/content/repository/beastiary/CoreTentacles.png)||
+|[25](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0025.zip)|Cracko Demon|![Cracko Demon](http://www.realm667.com//images/content/repository/beastiary/CrackoDemon.png)||
 |[807](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0807.zip)|Crash|![Crash](http://www.realm667.com//images/content/repository/beastiary/Crash.png)||
 |[27](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0027.zip)|Cyber Baron|![Cyber Baron](http://www.realm667.com//images/content/repository/beastiary/CyberBaron.png)||
+|[331](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0331.zip)|Cyber Fiend|![Cyber Fiend](http://www.realm667.com//images/content/repository/beastiary/CyberFiend.png)||
 |[809](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0809.zip)|Cyber Imp|![Cyber Imp](http://www.realm667.com//images/content/repository/beastiary/CyberImp.png)||
-|[28](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0028.zip)|CyberMastermind|![CyberMastermind](http://www.realm667.com//images/content/repository/beastiary/CyberMastermind.png)||
-|[331](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0331.zip)|CyberFiend|![CyberFiend](http://www.realm667.com//images/content/repository/beastiary/CyberFiend.png)||
+|[28](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0028.zip)|Cyber Mastermind|![Cyber Mastermind](http://www.realm667.com//images/content/repository/beastiary/CyberMastermind.png)||
 |[29](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0029.zip)|Cybruiser|![Cybruiser](http://www.realm667.com//images/content/repository/beastiary/Cybruiser.png)||
 |[334](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0334.zip)|Dark Cardinal|![Dark Cardinal](http://www.realm667.com//images/content/repository/beastiary/DarkCardinal.png)||
 |[472](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0472.zip)|Dark Imp Pack|![Dark Imp Pack](http://www.realm667.com//images/content/repository/beastiary/DarkImpPack.png)||
-|[33](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0033.zip)|DarknessRift|![DarknessRift](http://www.realm667.com//images/content/repository/beastiary/DarknessRift.png)||
+|[33](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0033.zip)|Darkness Rift|![Darkness Rift](http://www.realm667.com//images/content/repository/beastiary/DarknessRift.png)||
 |[34](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0034.zip)|Death Incarnate|![Death Incarnate](http://www.realm667.com//images/content/repository/beastiary/DeathIncarnate.png)||
 |[569](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0569.zip)|Deep One|![Deep One](http://www.realm667.com//images/content/repository/beastiary/DeepOne.png)||
 |[177](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0177.zip)|Defiler|![Defiler](http://www.realm667.com//images/content/repository/beastiary/Defiler.png)||
@@ -201,17 +205,17 @@
 |[38](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0038.zip)|Diabolist|![Diabolist](http://www.realm667.com//images/content/repository/beastiary/Diabolist.png)||
 |[40](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0040.zip)|Double Chaingunner|![Double Chaingunner](http://www.realm667.com//images/content/repository/beastiary/DoubleChaingunner.png)||
 |[634](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0634.zip)|Drone|![Drone](http://www.realm667.com//images/content/repository/beastiary/Drone.png)||
-|[41](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0041.zip)|DuneWarrior|![DuneWarrior](http://www.realm667.com//images/content/repository/beastiary/DuneWarrior.png)||
+|[41](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0041.zip)|Dune Warrior|![Dune Warrior](http://www.realm667.com//images/content/repository/beastiary/DuneWarrior.png)||
 |[42](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0042.zip)|Enhanced Cacodemon|![Enhanced Cacodemon](http://www.realm667.com//images/content/repository/beastiary/EnhancedCaco.png)||
-|[43](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0043.zip)|EtherealSoul|![EtherealSoul](http://www.realm667.com//images/content/repository/beastiary/EtherealSoul.png)||
+|[43](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0043.zip)|Ethereal Soul|![Ethereal Soul](http://www.realm667.com//images/content/repository/beastiary/EtherealSoul.png)||
 |[908](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0908.zip)|Exterminator|![Exterminator](http://www.realm667.com//images/content/repository/beastiary/Exterminator.png)||
 |[44](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0044.zip)|Fallen|![Fallen](http://www.realm667.com//images/content/repository/beastiary/Fallen.png)||
-|[688](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0688.zip)|Female Scientist|![Female Scientist](http://www.realm667.com//images/content/repository/beastiary/FemaleScientist.png)||
+|~~[688](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0688.zip)~~|~~Female Scientist~~|![Female Scientist](http://www.realm667.com//images/content/repository/beastiary/FemaleScientist.png)|Excluded from generated package|
 |[488](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0488.zip)|Female Zombie Pack|![Female Zombie Pack](http://www.realm667.com//images/content/repository/beastiary/FemaleZombiePack.png)||
 |[410](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0410.zip)|Flamer Zombie|![Flamer Zombie](http://www.realm667.com//images/content/repository/beastiary/FlamerZombie.png)||
-|[415](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0415.zip)|FleshSpawn|![FleshSpawn](http://www.realm667.com//images/content/repository/beastiary/Fleshspawn.png)||
+|[415](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0415.zip)|Flesh Spawn|![Flesh Spawn](http://www.realm667.com//images/content/repository/beastiary/Fleshspawn.png)||
 |[186](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0186.zip)|Flesh Wizard|![Flesh Wizard](http://www.realm667.com//images/content/repository/beastiary/FleshWizard.png)||
-|[45](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0045.zip)|FlyingImp|![FlyingImp](http://www.realm667.com//images/content/repository/beastiary/FlyingImp.png)||
+|[45](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0045.zip)|Flying Imp|![Flying Imp](http://www.realm667.com//images/content/repository/beastiary/FlyingImp.png)||
 |[556](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0556.zip)|Forgotten One|![Forgotten One](http://www.realm667.com//images/content/repository/beastiary/ForgottenOne.png)||
 |[900](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0900.zip)|Former Ranger|![Former Ranger](http://www.realm667.com//images/content/repository/beastiary/FormerRanger.png)||
 |[802](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0802.zip)|Former Scientists Pack|![Former Scientists Pack](http://www.realm667.com//images/content/repository/beastiary/FormerScientists.png)||
@@ -223,24 +227,24 @@
 |[709](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0709.zip)|Giant Rat|![Giant Rat](http://www.realm667.com//images/content/repository/beastiary/GiantRat.png)||
 |[769](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0769.zip)|Grell|![Grell](http://www.realm667.com//images/content/repository/beastiary/Grell.png)||
 |[48](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0048.zip)|Guardian Cube|![Guardian Cube](http://www.realm667.com//images/content/repository/beastiary/GuardianCube.png)||
-|[51](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0051.zip)|Helemental|![Helemental](http://www.realm667.com//images/content/repository/beastiary/Helemental.png)||
+|[51](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0051.zip)|Hades Elemental|![Hades Elemental](http://www.realm667.com//images/content/repository/beastiary/Helemental.png)||
 |[49](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0049.zip)|Hades Sphere|![Hades Sphere](http://www.realm667.com//images/content/repository/beastiary/HadesSphere.png)||
 |[191](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0191.zip)|Hangman|![Hangman](http://www.realm667.com//images/content/repository/beastiary/Hangman.png)||
 |[864](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0864.zip)|Hazmat Zombie|![Hazmat Zombie](http://www.realm667.com//images/content/repository/beastiary/HazmatZombie.png)||
 |[605](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0605.zip)|Heaven Guard|![Heaven Guard](http://www.realm667.com//images/content/repository/beastiary/HeavenGuard.png)||
 |[50](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0050.zip)|Hectebus|![Hectebus](http://www.realm667.com//images/content/repository/beastiary/Hectebus.png)||
-|[53](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0053.zip)|HellHound|![HellHound](http://www.realm667.com//images/content/repository/beastiary/HellHound.png)||
-|[54](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0054.zip)|HellRose|![HellRose](http://www.realm667.com//images/content/repository/beastiary/HellRose.png)||
+|[53](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0053.zip)|Hell Hound|![Hell Hound](http://www.realm667.com//images/content/repository/beastiary/HellHound.png)||
+|[54](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0054.zip)|Hell Rose|![Hell Rose](http://www.realm667.com//images/content/repository/beastiary/HellRose.png)||
 |[56](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0056.zip)|Hell Warrior|![Hell Warrior](http://www.realm667.com//images/content/repository/beastiary/HellWarrior.png)||
-|[57](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0057.zip)|Hells Fury|![Hells Fury](http://www.realm667.com//images/content/repository/beastiary/HellsFury.png)||
+|[57](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0057.zip)|Hell's Fury|![Hell's Fury](http://www.realm667.com//images/content/repository/beastiary/HellsFury.png)||
 |[183](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0183.zip)|Hellion|![Hellion](http://www.realm667.com//images/content/repository/beastiary/Hellion.png)||
 |[59](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0059.zip)|Hellstorm Archon|![Hellstorm Archon](http://www.realm667.com//images/content/repository/beastiary/HellstormArchon.png)||
 |[552](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0552.zip)|Hierophant|![Hierophant](http://www.realm667.com//images/content/repository/beastiary/Hierophant.png)||
 |[60](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0060.zip)|Illus|![Illus](http://www.realm667.com//images/content/repository/beastiary/Illus.png)||
-|[61](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0061.zip)|ImpTrite|![ImpTrite](http://www.realm667.com//images/content/repository/beastiary/ImpTrite.png)||
+|[61](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0061.zip)|Imp Trite|![Imp Trite](http://www.realm667.com//images/content/repository/beastiary/ImpTrite.png)||
 |[477](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0477.zip)|Imp Variants|![Imp Variants](http://www.realm667.com//images/content/repository/beastiary/ImpVariants.png)||
 |[149](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0149.zip)|Incubus|![Incubus](http://www.realm667.com//images/content/repository/beastiary/Incubus.png)||
-|[143](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0143.zip)|InfernalSpider|![InfernalSpider](http://www.realm667.com//images/content/repository/beastiary/InfernalSpider.png)||
+|[143](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0143.zip)|Infernal Spider|![Infernal Spider](http://www.realm667.com//images/content/repository/beastiary/InfernalSpider.png)||
 |[63](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0063.zip)|Inferno|![Inferno](http://www.realm667.com//images/content/repository/beastiary/Inferno.png)||
 |[288](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0288.zip)|Jetpack Zombie|![Jetpack Zombie](http://www.realm667.com//images/content/repository/beastiary/JetpackZombie.png)||
 |[553](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0553.zip)|Karasawa Zombie|![Karasawa Zombie](http://www.realm667.com//images/content/repository/beastiary/KarasawaGuy.png)||
@@ -250,30 +254,30 @@
 |[65](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0065.zip)|Mauler Demon|![Mauler Demon](http://www.realm667.com//images/content/repository/beastiary/MaulerDemon.png)||
 |[901](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0901.zip)|Minigunner|![Minigunner](http://www.realm667.com//images/content/repository/beastiary/Minigunner.png)||
 |[318](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0318.zip)|Moloch|![Moloch](http://www.realm667.com//images/content/repository/beastiary/Moloch.png)||
-|[66](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0066.zip)|NailBorg|![NailBorg](http://www.realm667.com//images/content/repository/beastiary/NailBorg.png)||
-|[337](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0337.zip)|NailBorgCommando|![NailBorgCommando](http://www.realm667.com//images/content/repository/beastiary/NailBorgCommando.png)||
-|[67](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0067.zip)|NetherworldDrone|![NetherworldDrone](http://www.realm667.com//images/content/repository/beastiary/NetherworldDrone.png)||
-|[68](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0068.zip)|NetherworldQueen|![NetherworldQueen](http://www.realm667.com//images/content/repository/beastiary/NetherworldQueen.png)||
+|[66](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0066.zip)|Nail Borg|![Nail Borg](http://www.realm667.com//images/content/repository/beastiary/NailBorg.png)||
+|[337](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0337.zip)|Nail Borg Commando|![Nail Borg Commando](http://www.realm667.com//images/content/repository/beastiary/NailBorgCommando.png)||
+|[67](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0067.zip)|Netherworld Drone|![Netherworld Drone](http://www.realm667.com//images/content/repository/beastiary/NetherworldDrone.png)||
+|[68](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0068.zip)|Netherworld Queen|![Netherworld Queen](http://www.realm667.com//images/content/repository/beastiary/NetherworldQueen.png)||
 |[69](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0069.zip)|Nightmare|![Nightmare](http://www.realm667.com//images/content/repository/beastiary/Nightmare.png)||
-|[70](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0070.zip)|NightmareDemon|![NightmareDemon](http://www.realm667.com//images/content/repository/beastiary/NightmareDemon.png)||
+|[70](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0070.zip)|Nightmare Demon|![Nightmare Demon](http://www.realm667.com//images/content/repository/beastiary/NightmareDemon.png)||
 |[369](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0369.zip)|Nightshade|![Nightshade](http://www.realm667.com//images/content/repository/beastiary/Nightshade.png)||
-|[72](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0072.zip)|ObsidianStatue|![ObsidianStatue](http://www.realm667.com//images/content/repository/beastiary/ObsidianStatue.png)||
+|[72](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0072.zip)|Obsidian Statue|![Obsidian Statue](http://www.realm667.com//images/content/repository/beastiary/ObsidianStatue.png)||
 |[289](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0289.zip)|Overlord|![Overlord](http://www.realm667.com//images/content/repository/beastiary/Overlord.png)||
 |[859](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0859.zip)|Phantasm|![Phantasm](http://www.realm667.com//images/content/repository/beastiary/Phantasm.png)||
 |[151](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0151.zip)|Phantom|![Phantom](http://www.realm667.com//images/content/repository/beastiary/Phantom.png)||
 |[178](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0178.zip)|Phase Imp|![Phase Imp](http://www.realm667.com//images/content/repository/beastiary/PhaseImp.png)||
-|[71](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0071.zip)|PlasmaDemon|![PlasmaDemon](http://www.realm667.com//images/content/repository/beastiary/PlasmaDemon.png)||
-|[73](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0073.zip)|PlasmaElemental|![PlasmaElemental](http://www.realm667.com//images/content/repository/beastiary/PlasmaElemental.png)||
-|[74](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0074.zip)|PlasmaZombie|![PlasmaZombie](http://www.realm667.com//images/content/repository/beastiary/PlasmaZombie.png)||
+|[71](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0071.zip)|Plasma Demon|![Plasma Demon](http://www.realm667.com//images/content/repository/beastiary/PlasmaDemon.png)||
+|[73](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0073.zip)|Plasma Elemental|![Plasma Elemental](http://www.realm667.com//images/content/repository/beastiary/PlasmaElemental.png)||
+|[74](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0074.zip)|Plasma Zombie|![Plasma Zombie](http://www.realm667.com//images/content/repository/beastiary/PlasmaZombie.png)||
 |[300](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0300.zip)|Poe|![Poe](http://www.realm667.com//images/content/repository/beastiary/Poe.png)||
-|[75](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0075.zip)|PoisonSoul|![PoisonSoul](http://www.realm667.com//images/content/repository/beastiary/PoisonSoul.png)||
-|[339](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0339.zip)|ProfaneOne|![ProfaneOne](http://www.realm667.com//images/content/repository/beastiary/ProfaneOne.png)||
-|[76](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0076.zip)|PsychicSoul|![PsychicSoul](http://www.realm667.com//images/content/repository/beastiary/PsychicSoul.png)||
+|[75](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0075.zip)|Poison Soul|![Poison Soul](http://www.realm667.com//images/content/repository/beastiary/PoisonSoul.png)||
+|[339](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0339.zip)|Profane One|![Profane One](http://www.realm667.com//images/content/repository/beastiary/ProfaneOne.png)||
+|[76](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0076.zip)|Psychic Soul|![Psychic Soul](http://www.realm667.com//images/content/repository/beastiary/PsychicSoul.png)||
 |[774](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0774.zip)|Pulse Nailgun Zombie|![Pulse Nailgun Zombie](http://www.realm667.com//images/content/repository/beastiary/PulseNailgunZombie.png)||
 |[625](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0625.zip)|Pustule|![Pustule](http://www.realm667.com//images/content/repository/beastiary/Pustule.png)||
-|[144](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0144.zip)|PyroDemon|![PyroDemon](http://www.realm667.com//images/content/repository/beastiary/PyroDemon.png)||
+|[144](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0144.zip)|Pyro Demon|![Pyro Demon](http://www.realm667.com//images/content/repository/beastiary/PyroDemon.png)||
+|[319](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0319.zip)|Pyro Imp|![Pyro Imp](http://www.realm667.com//images/content/repository/beastiary/PyroImp.png)||
 |[798](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0798.zip)|Pyro Zombie|![Pyro Zombie](http://www.realm667.com//images/content/repository/beastiary/PyroZombie.png)||
-|[319](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0319.zip)|PyroImp|![PyroImp](http://www.realm667.com//images/content/repository/beastiary/PyroImp.png)||
 |[456](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0456.zip)|Quad-Shotgun Zombie|![Quad-Shotgun Zombie](http://www.realm667.com//images/content/repository/beastiary/QuadShotgunZombie.png)||
 |[77](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0077.zip)|Rail Arachnotron|![Rail Arachnotron](http://www.realm667.com//images/content/repository/beastiary/RailArachnotron.png)||
 |[188](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0188.zip)|Rail Bot|![Rail Bot](http://www.realm667.com//images/content/repository/beastiary/RailBot.png)||
@@ -297,15 +301,15 @@
 |[602](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0602.zip)|SMG Zombie|![SMG Zombie](http://www.realm667.com//images/content/repository/beastiary/SMGZombie.png)||
 |[770](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0770.zip)|Smoke Monster|![Smoke Monster](http://www.realm667.com//images/content/repository/beastiary/SmokeMonster.png)||
 |[84](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0084.zip)|Snake Imp|![Snake Imp](http://www.realm667.com//images/content/repository/beastiary/SnakeImp.png)||
-|[322](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0322.zip)|SniperZombie|![SniperZombie](http://www.realm667.com//images/content/repository/beastiary/SniperZombie.png)||
+|[322](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0322.zip)|Sniper Zombie|![Sniper Zombie](http://www.realm667.com//images/content/repository/beastiary/SniperZombie.png)||
 |[294](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0294.zip)|Sonic Railgun Zombie|![Sonic Railgun Zombie](http://www.realm667.com//images/content/repository/beastiary/SonicRailgunZombie.png)||
 |[85](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0085.zip)|Soul Harvester|![Soul Harvester](http://www.realm667.com//images/content/repository/beastiary/SoulHarvester.png)||
 |[189](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0189.zip)|Source Guardian|![Source Guardian](http://www.realm667.com//images/content/repository/beastiary/SourceGuardian.png)||
 |[86](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0086.zip)|Spirit Imp|![Spirit Imp](http://www.realm667.com//images/content/repository/beastiary/SpiritImp.png)||
 |[307](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0307.zip)|Squire|![Squire](http://www.realm667.com//images/content/repository/beastiary/Squire.png)||
 |[815](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0815.zip)|Stalker|![Stalker](http://www.realm667.com//images/content/repository/beastiary/Stalker.png)||
-|[87](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0087.zip)|StealthFighter|![StealthFighter](http://www.realm667.com//images/content/repository/beastiary/StealthFighter.png)||
-|[88](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0088.zip)|StoneDemon|![StoneDemon](http://www.realm667.com//images/content/repository/beastiary/StoneDemon.png)||
+|[87](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0087.zip)|Stealth Fighter|![Stealth Fighter](http://www.realm667.com//images/content/repository/beastiary/StealthFighter.png)||
+|[88](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0088.zip)|Stone Demon|![Stone Demon](http://www.realm667.com//images/content/repository/beastiary/StoneDemon.png)||
 |[89](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0089.zip)|Stone Imp|![Stone Imp](http://www.realm667.com//images/content/repository/beastiary/StoneImp.png)||
 |[90](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0090.zip)|Suicide Bomber|![Suicide Bomber](http://www.realm667.com//images/content/repository/beastiary/SuicideBomber.png)||
 |[296](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0296.zip)|Super Demon|![Super Demon](http://www.realm667.com//images/content/repository/beastiary/SuperDemon.png)||
@@ -316,11 +320,11 @@
 |[297](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0297.zip)|Swarm|![Swarm](http://www.realm667.com//images/content/repository/beastiary/Swarm.png)||
 |[153](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0153.zip)|Terminator|![Terminator](http://www.realm667.com//images/content/repository/beastiary/Terminator.png)||
 |[93](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0093.zip)|Terror|![Terror](http://www.realm667.com//images/content/repository/beastiary/Terror.png)||
-|[312](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0312.zip)|TeslaCoil|![TeslaCoil](http://www.realm667.com//images/content/repository/beastiary/TeslaCoil.png)||
+|[312](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0312.zip)|Tesla Coil|![Tesla Coil](http://www.realm667.com//images/content/repository/beastiary/TeslaCoil.png)||
 |[94](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0094.zip)|Thamuz|![Thamuz](http://www.realm667.com//images/content/repository/beastiary/Thamuz.png)||
 |[749](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0749.zip)|Time Imp|![Time Imp](http://www.realm667.com//images/content/repository/beastiary/TimeImp.png)||
-|[96](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0096.zip)|TornadoDemon|![TornadoDemon](http://www.realm667.com//images/content/repository/beastiary/TornadoDemon.png)||
-|[97](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0097.zip)|TorturedSoul|![TorturedSoul](http://www.realm667.com//images/content/repository/beastiary/TorturedSoul.png)||
+|[96](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0096.zip)|Tornado Demon|![Tornado Demon](http://www.realm667.com//images/content/repository/beastiary/TornadoDemon.png)||
+|[97](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0097.zip)|Tortured Soul|![Tortured Soul](http://www.realm667.com//images/content/repository/beastiary/TorturedSoul.png)||
 |[623](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0623.zip)|Trash Monster|![Trash Monster](http://www.realm667.com//images/content/repository/beastiary/TrashMonster.png)||
 |[557](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0557.zip)|Trite|![Trite](http://www.realm667.com//images/content/repository/beastiary/Trite.png)||
 |[505](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0505.zip)|UAC Bot|![UAC Bot](http://www.realm667.com//images/content/repository/beastiary/UACBot.png)||
@@ -333,17 +337,18 @@
 |[102](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0102.zip)|Watcher|![Watcher](http://www.realm667.com//images/content/repository/beastiary/Watcher.png)||
 |[748](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0748.zip)|Weakener|![Weakener](http://www.realm667.com//images/content/repository/beastiary/Weakener.png)||
 |[184](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0184.zip)|Wicked|![Wicked](http://www.realm667.com//images/content/repository/beastiary/Wicked.png)||
-|[571](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0571.zip)|Wraith (D3)|![Wraith (D3)](http://www.realm667.com//images/content/repository/beastiary/WraithD3.png)||
+|[571](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0571.zip)|Doom III Wraith|![Doom III Wraith](http://www.realm667.com//images/content/repository/beastiary/WraithD3.png)||
 |[104](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0104.zip)|ZSec|![ZSec](http://www.realm667.com//images/content/repository/beastiary/ZSec.png)||
 |[182](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0182.zip)|Zombie Flyer|![Zombie Flyer](http://www.realm667.com//images/content/repository/beastiary/ZombieFlyer.png)||
 |[448](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0448.zip)|Zombie Henchman|![Zombie Henchman](http://www.realm667.com//images/content/repository/beastiary/Zombie Henchman.png)||
-|[105](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0105.zip)|ZombieMarine|![ZombieMarine](http://www.realm667.com//images/content/repository/beastiary/ZombieMarine.png)||
+|[105](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0105.zip)|Zombie Marine|![Zombie Marine](http://www.realm667.com//images/content/repository/beastiary/ZombieMarine.png)||
 |[911](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0911.zip)|Zombie Missile Tank|![Zombie Missile Tank](http://www.realm667.com//images/content/repository/beastiary/ZombieMissileTank.png)||
-|[341](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0341.zip)|ZombiePlasmaTank|![ZombiePlasmaTank](http://www.realm667.com//images/content/repository/beastiary/ZombiePlasmaTank.png)||
+|[341](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0341.zip)|Zombie Plasma Tank|![Zombie Plasma Tank](http://www.realm667.com//images/content/repository/beastiary/ZombiePlasmaTank.png)||
 |[106](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0106.zip)|Zombie Railgunner|![Zombie Railgunner](http://www.realm667.com//images/content/repository/beastiary/ZombieRailgunner.png)||
-|[730](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0730.zip)|Zombie Scientist|![Zombie Scientist](http://www.realm667.com//images/content/repository/beastiary/ZombieScientist.png)||
+|~~[730](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0730.zip)~~|~~Zombie Scientist~~|![Zombie Scientist](http://www.realm667.com//images/content/repository/beastiary/ZombieScientist.png)|Excluded from generated package|
 |[107](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0107.zip)|ZombieTank|![ZombieTank](http://www.realm667.com//images/content/repository/beastiary/ZombieTank.png)||
 |[554](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0554.zip)|ZSpecOps|![ZSpecOps](http://www.realm667.com//images/content/repository/beastiary/ZSpecOps.png)||
+||**Beastiary: Heretic / Hexen Style**|||
 |[6](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0006.zip)|Acolyte|![Acolyte](http://www.realm667.com//images/content/repository/beastiary/Acolyte.png)||
 |[10](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0010.zip)|Apprentice of D'Sparil|![Apprentice of D'Sparil](http://www.realm667.com//images/content/repository/beastiary/ApprenticeOfDsparil.png)||
 |[13](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0013.zip)|Avatar|![Avatar](http://www.realm667.com//images/content/repository/beastiary/Avatar.png)||
@@ -367,16 +372,16 @@
 |[47](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0047.zip)|Ghoul|![Ghoul](http://www.realm667.com//images/content/repository/beastiary/Ghoul.png)||
 |[745](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0745.zip)|Gold Lich|![Gold Lich](http://www.realm667.com//images/content/repository/beastiary/GoldLich.png)||
 |[336](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0336.zip)|Head Monster|![Head Monster](http://www.realm667.com//images/content/repository/beastiary/HeadMonster.png)||
-|[52](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0052.zip)|HellApprentice|![HellApprentice](http://www.realm667.com//images/content/repository/beastiary/HellApprentice.png)||
-|[55](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0055.zip)|HellSmith|![HellSmith](http://www.realm667.com//images/content/repository/beastiary/HellSmith.png)||
-|[58](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0058.zip)|HellsGuard|![HellsGuard](http://www.realm667.com//images/content/repository/beastiary/HellsGuard.png)||
+|[52](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0052.zip)|Hell Apprentice|![Hell Apprentice](http://www.realm667.com//images/content/repository/beastiary/HellApprentice.png)||
+|[58](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0058.zip)|Hell Guard|![Hell Guard](http://www.realm667.com//images/content/repository/beastiary/HellsGuard.png)||
+|[55](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0055.zip)|Hell Smith|![Hell Smith](http://www.realm667.com//images/content/repository/beastiary/HellSmith.png)||
 |[836](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0836.zip)|Hex Prism|![Hex Prism](http://www.realm667.com//images/content/repository/beastiary/HexPrism.png)||
-|[192](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0192.zip)|HornBeast|![HornBeast](http://www.realm667.com//images/content/repository/beastiary/HornBeast.png)||
+|[192](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0192.zip)|Horn Beast|![Horn Beast](http://www.realm667.com//images/content/repository/beastiary/HornBeast.png)||
 |[310](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0310.zip)|Hornet|![Hornet](http://www.realm667.com//images/content/repository/beastiary/Hornet.png)||
 |[726](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0726.zip)|Ice Golem|![Ice Golem](http://www.realm667.com//images/content/repository/beastiary/IceGolem.png)||
 |[573](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0573.zip)|Ice Lich|![Ice Lich](http://www.realm667.com//images/content/repository/beastiary/IceLich.png)||
 |[470](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0470.zip)|Ice Stalker|![Ice Stalker](http://www.realm667.com//images/content/repository/beastiary/IceStalker.png)||
-|[62](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0062.zip)|ImpWarlord|![ImpWarlord](http://www.realm667.com//images/content/repository/beastiary/ImpWarlord.png)||
+|[62](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0062.zip)|Imp Warlord|![Imp Warlord](http://www.realm667.com//images/content/repository/beastiary/ImpWarlord.png)||
 |[287](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0287.zip)|Inferno Demon|![Inferno Demon](http://www.realm667.com//images/content/repository/beastiary/InfernoDemon.png)||
 |[196](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0196.zip)|Invisible Warrior|![Invisible Warrior](http://www.realm667.com//images/content/repository/beastiary/InvisibleWarrior.png)||
 |[471](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0471.zip)|Juggernaut|![Juggernaut](http://www.realm667.com//images/content/repository/beastiary/Juggernaught.png)||
@@ -398,6 +403,7 @@
 |[355](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0355.zip)|Vampire|![Vampire](http://www.realm667.com//images/content/repository/beastiary/Vampire.png)||
 |[103](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0103.zip)|Wraith|![Wraith](http://www.realm667.com//images/content/repository/beastiary/Wraith.png)||
 |[607](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0607.zip)|Zardaz|![Zardaz](http://www.realm667.com//images/content/repository/beastiary/Zardaz.png)||
+||**Beastiary: Strife Style**|||
 |[657](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0657.zip)|Black Ops|![Black Ops](http://www.realm667.com//images/content/repository/beastiary/BlackOps.png)||
 |[604](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0604.zip)|Dark Inquisitor|![Dark Inquisitor](http://www.realm667.com//images/content/repository/beastiary/DarkInquisitor.png)||
 |[863](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0863.zip)|Elite Guard|![Elite Guard](http://www.realm667.com//images/content/repository/beastiary/EliteGuard.png)||
@@ -406,148 +412,153 @@
 |[338](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0338.zip)|Paladin|![Paladin](http://www.realm667.com//images/content/repository/beastiary/Paladin.png)||
 |[637](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0637.zip)|Prison Guard|![Prison Guard](http://www.realm667.com//images/content/repository/beastiary/PrisonGuard.png)||
 |[909](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0909.zip)|Rebels Pack|![Rebels Pack](http://www.realm667.com//images/content/repository/beastiary/RebelsPack.png)||
-|[898](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0898.zip)|Ritual Knife|![Ritual Knife](http://www.realm667.com//images/content/repository/itemstore/RitualKnife.png)||
-|[897](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0897.zip)|Familiar Summon|![Familiar Summon](http://www.realm667.com//images/content/repository/itemstore/FamiliarSummon.png)||
-|[868](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0868.zip)|Lifeshield Sphere|![Lifeshield Sphere](http://www.realm667.com//images/content/repository/itemstore/LifeshieldSphere.png)||
-|[850](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0850.zip)|Possession Sphere|![Possession Sphere](http://www.realm667.com//images/content/repository/itemstore/PossessionSphere.png)||
-|[830](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0830.zip)|Crucifix Rosary|![Crucifix Rosary](http://www.realm667.com//images/content/repository/itemstore/CrucifixRosary.png)||
-|[827](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0827.zip)|Ankh of Life|![Ankh of Life](http://www.realm667.com//images/content/repository/itemstore/AnkhOfLife.png)||
-|[829](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0829.zip)|Mutant Sphere|![Mutant Sphere](http://www.realm667.com//images/content/repository/itemstore/MutantSphere.png)||
-|[824](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0824.zip)|Blood Amulet|![Blood Amulet](http://www.realm667.com//images/content/repository/itemstore/BloodAmulet.png)||
-|[711](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0711.zip)|Book of the Dead|![Book of the Dead](http://www.realm667.com//images/content/repository/itemstore/BookOfTheDead.png)||
-|[713](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0713.zip)|Talisman|![Talisman](http://www.realm667.com//images/content/repository/itemstore/Talisman.png)||
-|[370](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0370.zip)|Flight Sphere|![Flight Sphere](http://www.realm667.com//images/content/repository/itemstore/FlightSphere.png)||
-|[367](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0367.zip)|Lich Skull|![Lich Skull](http://www.realm667.com//images/content/repository/itemstore/LichSkull.png)||
-|[378](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0378.zip)|Haste Sphere|![Haste Sphere](http://www.realm667.com//images/content/repository/itemstore/HasteSphere.png)||
-|[379](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0379.zip)|Regeneration Sphere|![Regeneration Sphere](http://www.realm667.com//images/content/repository/itemstore/RegenerationSphere.png)||
-|[380](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0380.zip)|Shrink Sphere|![Shrink Sphere](http://www.realm667.com//images/content/repository/itemstore/ShrinkSphere.png)||
-|[384](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0384.zip)|Shield Sphere|![Shield Sphere](http://www.realm667.com//images/content/repository/itemstore/ShieldSphere.png)||
-|[385](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0385.zip)|Bloodlust Sphere|![Bloodlust Sphere](http://www.realm667.com//images/content/repository/itemstore/BloodLustSphere.png)||
+||**Item Store: PowerUps & Artifacts**|||
 |[391](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0391.zip)|AmmoSphere|![AmmoSphere](http://www.realm667.com//images/content/repository/itemstore/AmmoSphere.png)||
+|[827](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0827.zip)|Ankh of Life|![Ankh of Life](http://www.realm667.com//images/content/repository/itemstore/AnkhOfLife.png)||
 |[392](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0392.zip)|Armor Sphere|![Armor Sphere](http://www.realm667.com//images/content/repository/itemstore/ArmorSphere.png)||
-|[397](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0397.zip)|Terror Sphere|![Terror Sphere](http://www.realm667.com//images/content/repository/itemstore/TerrorSphere.png)||
 |[399](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0399.zip)|Berserk Sphere|![Berserk Sphere](http://www.realm667.com//images/content/repository/itemstore/BerserkSphere.png)||
-|[400](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0400.zip)|Doom Sphere|![Doom Sphere](http://www.realm667.com//images/content/repository/itemstore/DoomSphere.png)||
-|[414](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0414.zip)|Tome of the Unholy|![Tome of the Unholy](http://www.realm667.com//images/content/repository/itemstore/TomeOfTheUnholy.png)||
-|[412](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0412.zip)|Power Stimpack|![Power Stimpack](http://www.realm667.com//images/content/repository/itemstore/PowerStimpack.png)||
-|[416](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0416.zip)|Double Damage Sphere|![Double Damage Sphere](http://www.realm667.com//images/content/repository/itemstore/DoubleDamageSphere.png)||
-|[447](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0447.zip)|Summon Sphere|![Summon Sphere](http://www.realm667.com//images/content/repository/itemstore/SummonSphere.png)||
-|[465](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0465.zip)|Salvation Sphere|![Salvation Sphere](http://www.realm667.com//images/content/repository/itemstore/SalvationSphere.png)||
 |[479](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0479.zip)|BioSphere|![BioSphere](http://www.realm667.com//images/content/repository/itemstore/Biosphere.png)||
-|[480](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0480.zip)|Emerald Amulet|![Emerald Amulet](http://www.realm667.com//images/content/repository/itemstore/emeraldamulet.png)||
-|[481](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0481.zip)|Potion of Fire Resistance|![Potion of Fire Resistance](http://www.realm667.com//images/content/repository/itemstore/potionoffireresistance.png)||
-|[482](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0482.zip)|Rebreather|![Rebreather](http://www.realm667.com//images/content/repository/itemstore/Rebreather.png)||
-|[484](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0484.zip)|Scroll of Hellfire|![Scroll of Hellfire](http://www.realm667.com//images/content/repository/itemstore/ScrollOfHellfire.png)||
-|[483](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0483.zip)|Ring of Regeneration|![Ring of Regeneration](http://www.realm667.com//images/content/repository/itemstore/RingOfRegeneration.png)||
-|[485](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0485.zip)|Talisman of the Depths|![Talisman of the Depths](http://www.realm667.com//images/content/repository/itemstore/TalismanOfTheDepths.png)||
-|[486](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0486.zip)|Mask of Terror|![Mask of Terror](http://www.realm667.com//images/content/repository/itemstore/MaskOfTerror.png)||
-|[487](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0487.zip)|Bracers of Force|![Bracers of Force](http://www.realm667.com//images/content/repository/itemstore/BracersOfForce.png)||
-|[491](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0491.zip)|Ring of the Owl|![Ring of the Owl](http://www.realm667.com//images/content/repository/itemstore/RingOfTheOwl.png)||
+|[824](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0824.zip)|Blood Amulet|![Blood Amulet](http://www.realm667.com//images/content/repository/itemstore/BloodAmulet.png)||
+|[385](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0385.zip)|Bloodlust Sphere|![Bloodlust Sphere](http://www.realm667.com//images/content/repository/itemstore/BloodLustSphere.png)||
+|[711](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0711.zip)|Book of the Dead|![Book of the Dead](http://www.realm667.com//images/content/repository/itemstore/BookOfTheDead.png)||
 |[492](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0492.zip)|Boots of the North|![Boots of the North](http://www.realm667.com//images/content/repository/itemstore/BootsOfTheNorth.png)||
-|[506](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0506.zip)|Hand of the Wraith|![Hand of the Wraith](http://www.realm667.com//images/content/repository/itemstore/HandOfTheWraith.png)||
-|[535](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0535.zip)|Icon of the Raven|![Icon of the Raven](http://www.realm667.com//images/content/repository/itemstore/IconOfTheRaven.png)||
-|[537](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0537.zip)|Life Sphere|![Life Sphere](http://www.realm667.com//images/content/repository/itemstore/LifeSphere.png)||
-|[580](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0580.zip)|Turbo Sphere|![Turbo Sphere](http://www.realm667.com//images/content/repository/itemstore/TurboSphere.png)||
-|[579](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0579.zip)|Time Freeze Sphere|![Time Freeze Sphere](http://www.realm667.com//images/content/repository/itemstore/TimeFreezeSphere.png)||
+|[487](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0487.zip)|Bracers of Force|![Bracers of Force](http://www.realm667.com//images/content/repository/itemstore/BracersOfForce.png)||
+|[830](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0830.zip)|Crucifix Rosary|![Crucifix Rosary](http://www.realm667.com//images/content/repository/itemstore/CrucifixRosary.png)||
+|[400](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0400.zip)|Doom Sphere|![Doom Sphere](http://www.realm667.com//images/content/repository/itemstore/DoomSphere.png)||
+|[416](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0416.zip)|Double Damage Sphere|![Double Damage Sphere](http://www.realm667.com//images/content/repository/itemstore/DoubleDamageSphere.png)||
+|[480](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0480.zip)|Emerald Amulet|![Emerald Amulet](http://www.realm667.com//images/content/repository/itemstore/emeraldamulet.png)||
+|[897](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0897.zip)|Familiar Summon|![Familiar Summon](http://www.realm667.com//images/content/repository/itemstore/FamiliarSummon.png)||
+|[370](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0370.zip)|Flight Sphere|![Flight Sphere](http://www.realm667.com//images/content/repository/itemstore/FlightSphere.png)||
 |[577](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0577.zip)|Guard Sphere|![Guard Sphere](http://www.realm667.com//images/content/repository/itemstore/GuardSphere.png)||
-|[578](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0578.zip)|Morph Cheddar|![Morph Cheddar](http://www.realm667.com//images/content/repository/itemstore/MorphCheddar.png)||
+|[506](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0506.zip)|Hand of the Wraith|![Hand of the Wraith](http://www.realm667.com//images/content/repository/itemstore/HandOfTheWraith.png)||
+|[378](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0378.zip)|Haste Sphere|![Haste Sphere](http://www.realm667.com//images/content/repository/itemstore/HasteSphere.png)||
+|[535](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0535.zip)|Icon of the Raven|![Icon of the Raven](http://www.realm667.com//images/content/repository/itemstore/IconOfTheRaven.png)||
 |[588](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0588.zip)|Invisibility Sphere|![Invisibility Sphere](http://www.realm667.com//images/content/repository/itemstore/InvisibilitySphere.png)||
-|[589](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0589.zip)|Rage Sphere|![Rage Sphere](http://www.realm667.com//images/content/repository/itemstore/RageSphere.png)||
 |[658](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0658.zip)|Jet Thruster|![Jet Thruster](http://www.realm667.com//images/content/repository/itemstore/JetThruster.png)||
-|[673](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0673.zip)|Tome of the Forsaken|![Tome of the Forsaken](http://www.realm667.com//images/content/repository/itemstore/TomeForsaken.png)||
+|[367](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0367.zip)|Lich Skull|![Lich Skull](http://www.realm667.com//images/content/repository/itemstore/LichSkull.png)||
+|[537](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0537.zip)|Life Sphere|![Life Sphere](http://www.realm667.com//images/content/repository/itemstore/LifeSphere.png)||
+|[868](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0868.zip)|Lifeshield Sphere|![Lifeshield Sphere](http://www.realm667.com//images/content/repository/itemstore/LifeshieldSphere.png)||
+|[486](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0486.zip)|Mask of Terror|![Mask of Terror](http://www.realm667.com//images/content/repository/itemstore/MaskOfTerror.png)||
+|[578](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0578.zip)|Morph Cheddar|![Morph Cheddar](http://www.realm667.com//images/content/repository/itemstore/MorphCheddar.png)||
+|[829](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0829.zip)|Mutant Sphere|![Mutant Sphere](http://www.realm667.com//images/content/repository/itemstore/MutantSphere.png)||
+|[850](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0850.zip)|Possession Sphere|![Possession Sphere](http://www.realm667.com//images/content/repository/itemstore/PossessionSphere.png)||
+|[481](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0481.zip)|Potion of Fire Resistance|![Potion of Fire Resistance](http://www.realm667.com//images/content/repository/itemstore/potionoffireresistance.png)||
+|[412](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0412.zip)|Power Stimpack|![Power Stimpack](http://www.realm667.com//images/content/repository/itemstore/PowerStimpack.png)||
+|[589](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0589.zip)|Rage Sphere|![Rage Sphere](http://www.realm667.com//images/content/repository/itemstore/RageSphere.png)||
+|[482](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0482.zip)|Rebreather|![Rebreather](http://www.realm667.com//images/content/repository/itemstore/Rebreather.png)||
+|[379](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0379.zip)|Regeneration Sphere|![Regeneration Sphere](http://www.realm667.com//images/content/repository/itemstore/RegenerationSphere.png)||
 |[682](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0682.zip)|Resistance Rings|![Resistance Rings](http://www.realm667.com//images/content/repository/itemstore/ResistanceRings.png)||
+|[483](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0483.zip)|Ring of Regeneration|![Ring of Regeneration](http://www.realm667.com//images/content/repository/itemstore/RingOfRegeneration.png)||
+|[491](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0491.zip)|Ring of the Owl|![Ring of the Owl](http://www.realm667.com//images/content/repository/itemstore/RingOfTheOwl.png)||
+|[898](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0898.zip)|Ritual Knife|![Ritual Knife](http://www.realm667.com//images/content/repository/itemstore/RitualKnife.png)||
+|[465](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0465.zip)|Salvation Sphere|![Salvation Sphere](http://www.realm667.com//images/content/repository/itemstore/SalvationSphere.png)||
+|[484](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0484.zip)|Scroll of Hellfire|![Scroll of Hellfire](http://www.realm667.com//images/content/repository/itemstore/ScrollOfHellfire.png)||
+|[384](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0384.zip)|Shield Sphere|![Shield Sphere](http://www.realm667.com//images/content/repository/itemstore/ShieldSphere.png)||
+|[380](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0380.zip)|Shrink Sphere|![Shrink Sphere](http://www.realm667.com//images/content/repository/itemstore/ShrinkSphere.png)||
+|[447](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0447.zip)|Summon Sphere|![Summon Sphere](http://www.realm667.com//images/content/repository/itemstore/SummonSphere.png)||
+|[713](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0713.zip)|Talisman|![Talisman](http://www.realm667.com//images/content/repository/itemstore/Talisman.png)||
+|[485](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0485.zip)|Talisman of the Depths|![Talisman of the Depths](http://www.realm667.com//images/content/repository/itemstore/TalismanOfTheDepths.png)||
+|[397](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0397.zip)|Terror Sphere|![Terror Sphere](http://www.realm667.com//images/content/repository/itemstore/TerrorSphere.png)||
+|[579](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0579.zip)|Time Freeze Sphere|![Time Freeze Sphere](http://www.realm667.com//images/content/repository/itemstore/TimeFreezeSphere.png)||
+|[673](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0673.zip)|Tome of the Forsaken|![Tome of the Forsaken](http://www.realm667.com//images/content/repository/itemstore/TomeForsaken.png)||
+|[414](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0414.zip)|Tome of the Unholy|![Tome of the Unholy](http://www.realm667.com//images/content/repository/itemstore/TomeOfTheUnholy.png)||
+|[580](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0580.zip)|Turbo Sphere|![Turbo Sphere](http://www.realm667.com//images/content/repository/itemstore/TurboSphere.png)||
+||**Item Store: Keys & Puzzle**|||
 |[867](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0867.zip)|Cross Keys|![Cross Keys](http://www.realm667.com//images/content/repository/itemstore/CrossKeys.png)||
+|[710](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0710.zip)|Doom 3 Keycards|![Doom 3 Keycards](http://www.realm667.com//images/content/repository/itemstore/D3KeyCards.png)||
 |[825](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0825.zip)|Skull Orbs|![Skull Orbs](http://www.realm667.com//images/content/repository/itemstore/SkullOrbs.png)||
 |[826](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0826.zip)|Supply Chest Key|![Supply Chest Key](http://www.realm667.com//images/content/repository/itemstore/SupplyChestKey.png)||
-|[710](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0710.zip)|Doom 3 Keycards|![Doom 3 Keycards](http://www.realm667.com//images/content/repository/itemstore/D3KeyCards.png)||
 |[558](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0558.zip)|Various Doom Keys|![Various Doom Keys](http://www.realm667.com//images/content/repository/itemstore/VariousKeys.png)||
-|[926](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0926.zip)|Shield Spells|![Shield Spells](http://www.realm667.com//images/content/repository/itemstore/ShieldSpells.png)||
-|[896](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0896.zip)|Magic Apples|![Magic Apples](http://www.realm667.com//images/content/repository/itemstore/MagicApples.png)||
-|[881](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0881.zip)|Swarmers|![Swarmers](http://www.realm667.com//images/content/repository/itemstore/Swarmers.png)||
-|[875](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0875.zip)|Medical Backpack|![Medical Backpack](http://www.realm667.com//images/content/repository/itemstore/MedicalBackpack.png)||
-|[869](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0869.zip)|Jump Boots|![Jump Boots](http://www.realm667.com//images/content/repository/itemstore/JumpBoots.png)||
-|[860](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0860.zip)|Elemental Gems|![Elemental Gems](http://www.realm667.com//images/content/repository/itemstore/ElementalGems.png)||
-|[840](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0840.zip)|Spring Mine|![Spring Mine](http://www.realm667.com//images/content/repository/itemstore/SpringMine.png)||
-|[835](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0835.zip)|Sigil Scroll|![Sigil Scroll](http://www.realm667.com//images/content/repository/itemstore/SigilScroll.png)||
-|[831](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0831.zip)|Vitality Serum|![Vitality Serum](http://www.realm667.com//images/content/repository/itemstore/VitalitySerum.png)||
-|[828](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0828.zip)|Flame Turret|![Flame Turret](http://www.realm667.com//images/content/repository/itemstore/FlameTurret.png)||
+||**Item Store: Others**|||
+|[490](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0490.zip)|Adrenaline Kit|![Adrenaline Kit](http://www.realm667.com//images/content/repository/itemstore/AdrenalineKit.png)||
+|[375](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0375.zip)|Ammo Belt|![Ammo Belt](http://www.realm667.com//images/content/repository/itemstore/AmmoBelt.png)||
+|[437](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0437.zip)|Armor Set|![Armor Set](http://www.realm667.com//images/content/repository/itemstore/Armor%20Set.png)||
+|[608](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0608.zip)|Armor Shard|![Armor Shard](http://www.realm667.com//images/content/repository/itemstore/ArmorShard.png)||
+|[524](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0524.zip)|Beacon|![Beacon](http://www.realm667.com//images/content/repository/itemstore/Beacon.png)||
+|[387](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0387.zip)|Biosuit|![Biosuit](http://www.realm667.com//images/content/repository/itemstore/Biosuit.png)||
+|[497](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0497.zip)|Blaze Orb|![Blaze Orb](http://www.realm667.com//images/content/repository/itemstore/BlazeOrb.png)||
+|[690](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0690.zip)|Bullet Cartridge|![Bullet Cartridge](http://www.realm667.com//images/content/repository/itemstore/BulletCartridge.png)||
+|[393](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0393.zip)|Bullet Kit|![Bullet Kit](http://www.realm667.com//images/content/repository/itemstore/Bullet%20Kit.png)||
+|[442](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0442.zip)|Small Blood Container|![Small Blood Container](http://www.realm667.com//images/content/repository/itemstore/Small%20Blood%20Container.png)||
+|[438](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0438.zip)|Large Blood Container|![Large Blood Container](http://www.realm667.com//images/content/repository/itemstore/Large%20Blood%20Container.png)||
+|[394](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0394.zip)|Cell Kit|![Cell Kit](http://www.realm667.com//images/content/repository/itemstore/Cell%20Kit.png)||
+|[376](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0376.zip)|Combat Pack|![Combat Pack](http://www.realm667.com//images/content/repository/itemstore/CombatPack.png)||
 |[823](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0823.zip)|Crusader Shield|![Crusader Shield](http://www.realm667.com//images/content/repository/itemstore/CrusaderShield.png)||
+|[498](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0498.zip)|Crystal Gem|![Crystal Gem](http://www.realm667.com//images/content/repository/itemstore/CrystalGem.png)||
+|[417](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0417.zip)|Deployable Sentry Gun|![Deployable Sentry Gun](http://www.realm667.com//images/content/repository/itemstore/DeployableSentryGun.png)||
+|[691](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0691.zip)|Electric Bolt Bundle|![Electric Bolt Bundle](http://www.realm667.com//images/content/repository/itemstore/ElectricBoltBundle.png)||
+|[787](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0787.zip)|Electric Pod|![Electric Pod](http://www.realm667.com//images/content/repository/itemstore/ElectricPod.png)||
+|[860](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0860.zip)|Elemental Gems|![Elemental Gems](http://www.realm667.com//images/content/repository/itemstore/ElementalGems.png)||
+|[692](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0692.zip)|Energy Kit|![Energy Kit](http://www.realm667.com//images/content/repository/itemstore/EnergyKit.png)||
+|[500](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0500.zip)|Ethereal Arrow Bundle|![Ethereal Arrow Bundle](http://www.realm667.com//images/content/repository/itemstore/EtherealArrowBundle.png)||
+|[382](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0382.zip)|Field Kit|![Field Kit](http://www.realm667.com//images/content/repository/itemstore/FieldKit.png)||
+|[828](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0828.zip)|Flame Turret|![Flame Turret](http://www.realm667.com//images/content/repository/itemstore/FlameTurret.png)||
+|[565](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0565.zip)|Flares|![Flares](http://www.realm667.com//images/content/repository/itemstore/Flares.png)||
+|[671](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0671.zip)|Food Barrel|![Food Barrel](http://www.realm667.com//images/content/repository/propstop/FoodBarrel.png)||
+|[501](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0501.zip)|Greater Mace Sphere|![Greater Mace Sphere](http://www.realm667.com//images/content/repository/itemstore/GreaterMaceSphere.png)||
+|[693](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0693.zip)|HE Grenade Box|![HE Grenade Box](http://www.realm667.com//images/content/repository/itemstore/HEGrenadeBox.png)||
+|[869](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0869.zip)|Jump Boots|![Jump Boots](http://www.realm667.com//images/content/repository/itemstore/JumpBoots.png)||
+|[478](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0478.zip)|Heavy Armor|![Heavy Armor](http://www.realm667.com//images/content/repository/itemstore/HeavyArmor.png)||
+|[896](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0896.zip)|Magic Apples|![Magic Apples](http://www.realm667.com//images/content/repository/itemstore/MagicApples.png)||
+|[502](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0502.zip)|Median Runes|![Median Runes](http://www.realm667.com//images/content/repository/itemstore/MedianRunes.png)||
+|[875](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0875.zip)|Medical Backpack|![Medical Backpack](http://www.realm667.com//images/content/repository/itemstore/MedicalBackpack.png)||
+|[371](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0371.zip)|Medipack|![Medipack](http://www.realm667.com//images/content/repository/itemstore/Medipack.png)||
+|[377](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0377.zip)|Mega Map|![Mega Map](http://www.realm667.com//images/content/repository/itemstore/MegaMap.png)||
+|[576](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0576.zip)|Megapack|![Megapack](http://www.realm667.com//images/content/repository/itemstore/Megapack.png)||
+|[694](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0694.zip)|Mini Missile Bundle|![Mini Missile Bundle](http://www.realm667.com//images/content/repository/itemstore/MiniMissileBundle.png)||
 |[795](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0795.zip)|Missile Pod|![Missile Pod](http://www.realm667.com//images/content/repository/itemstore/MissilePod.png)||
 |[712](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0712.zip)|Oxygen Canister|![Oxygen Canister](http://www.realm667.com//images/content/repository/itemstore/OxygenCanister.png)||
-|[778](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0778.zip)|Portable Rejuvenation Unit|![Portable Rejuvenation Unit](http://www.realm667.com//images/content/repository/itemstore/PortableRejuvenationUnit.png)||
-|[787](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0787.zip)|Electric Pod|![Electric Pod](http://www.realm667.com//images/content/repository/itemstore/ElectricPod.png)||
-|[690](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0690.zip)|Bullet Cartridge|![Bullet Cartridge](http://www.realm667.com//images/content/repository/itemstore/BulletCartridge.png)||
+|[439](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0439.zip)|PDA|![PDA](http://www.realm667.com//images/content/repository/itemstore/PDA.png)||
 |[695](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0695.zip)|Phosphorus Grenade Box|![Phosphorus Grenade Box](http://www.realm667.com//images/content/repository/itemstore/PhosphorusGrenadeBox.png)||
-|[693](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0693.zip)|HE Grenade Box|![HE Grenade Box](http://www.realm667.com//images/content/repository/itemstore/HEGrenadeBox.png)||
 |[696](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0696.zip)|Poison Bolt Bundle|![Poison Bolt Bundle](http://www.realm667.com//images/content/repository/itemstore/PoisonBoltBundle.png)||
-|[691](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0691.zip)|Electric Bolt Bundle|![Electric Bolt Bundle](http://www.realm667.com//images/content/repository/itemstore/ElectricBoltBundle.png)||
-|[692](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0692.zip)|Energy Kit|![Energy Kit](http://www.realm667.com//images/content/repository/itemstore/EnergyKit.png)||
-|[694](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0694.zip)|Mini Missile Bundle|![Mini Missile Bundle](http://www.realm667.com//images/content/repository/itemstore/MiniMissileBundle.png)||
+|[778](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0778.zip)|Portable Rejuvenation Unit|![Portable Rejuvenation Unit](http://www.realm667.com//images/content/repository/itemstore/PortableRejuvenationUnit.png)||
+|[656](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0656.zip)|Potion Variants|![Potion Variants](http://www.realm667.com//images/content/repository/itemstore/Potions.png)||
+|[499](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0499.zip)|Power Orb|![Power Orb](http://www.realm667.com//images/content/repository/itemstore/PowerOrb.png)||
 |[776](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0776.zip)|Quake Item Pack|![Quake Item Pack](http://www.realm667.com//images/content/repository/itemstore/QuakeItemPack.png)||
-|[689](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0689.zip)|Spiritual Armor Orb|![Spiritual Armor Orb](http://www.realm667.com//images/content/repository/itemstore/SpiritualArmorOrb.png)||
-|[371](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0371.zip)|Medipack|![Medipack](http://www.realm667.com//images/content/repository/itemstore/Medipack.png)||
-|[375](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0375.zip)|Ammo Belt|![Ammo Belt](http://www.realm667.com//images/content/repository/itemstore/AmmoBelt.png)||
-|[376](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0376.zip)|Combat Pack|![Combat Pack](http://www.realm667.com//images/content/repository/itemstore/CombatPack.png)||
-|[377](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0377.zip)|Mega Map|![Mega Map](http://www.realm667.com//images/content/repository/itemstore/MegaMap.png)||
-|[382](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0382.zip)|Field Kit|![Field Kit](http://www.realm667.com//images/content/repository/itemstore/FieldKit.png)||
-|[383](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0383.zip)|SuperStim|![SuperStim](http://www.realm667.com//images/content/repository/itemstore/SuperStim.png)||
-|[387](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0387.zip)|Biosuit|![Biosuit](http://www.realm667.com//images/content/repository/itemstore/Biosuit.png)||
-|[393](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0393.zip)|Bullet Kit|![Bullet Kit](http://www.realm667.com//images/content/repository/itemstore/Bullet%20Kit.png)||
-|[394](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0394.zip)|Cell Kit|![Cell Kit](http://www.realm667.com//images/content/repository/itemstore/Cell%20Kit.png)||
 |[395](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0395.zip)|Rocket Pile|![Rocket Pile](http://www.realm667.com//images/content/repository/itemstore/Rocket%20Pile.png)||
 |[396](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0396.zip)|Shell Kit|![Shell Kit](http://www.realm667.com//images/content/repository/itemstore/Shell%20Kit.png)||
-|[413](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0413.zip)|Supply Box|![Supply Box](http://www.realm667.com//images/content/repository/itemstore/SupplyBox.png)||
-|[417](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0417.zip)|Deployable Sentry Gun|![Deployable Sentry Gun](http://www.realm667.com//images/content/repository/itemstore/DeployableSentryGun.png)||
-|[439](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0439.zip)|PDA|![PDA](http://www.realm667.com//images/content/repository/itemstore/PDA.png)||
-|[438](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0438.zip)|Large Blood Container|![Large Blood Container](http://www.realm667.com//images/content/repository/itemstore/Large%20Blood%20Container.png)||
-|[437](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0437.zip)|Armor Set|![Armor Set](http://www.realm667.com//images/content/repository/itemstore/Armor%20Set.png)||
-|[442](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0442.zip)|Small Blood Container|![Small Blood Container](http://www.realm667.com//images/content/repository/itemstore/Small%20Blood%20Container.png)||
-|[478](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0478.zip)|Heavy Armor|![Heavy Armor](http://www.realm667.com//images/content/repository/itemstore/HeavyArmor.png)||
-|[489](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0489.zip)|Tech Armor|![Tech Armor](http://www.realm667.com//images/content/repository/itemstore/TechArmor.png)||
-|[490](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0490.zip)|Adrenaline Kit|![Adrenaline Kit](http://www.realm667.com//images/content/repository/itemstore/AdrenalineKit.png)||
-|[499](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0499.zip)|Power Orb|![Power Orb](http://www.realm667.com//images/content/repository/itemstore/PowerOrb.png)||
-|[497](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0497.zip)|Blaze Orb|![Blaze Orb](http://www.realm667.com//images/content/repository/itemstore/BlazeOrb.png)||
-|[501](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0501.zip)|Greater Mace Sphere|![Greater Mace Sphere](http://www.realm667.com//images/content/repository/itemstore/GreaterMaceSphere.png)||
-|[502](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0502.zip)|Median Runes|![Median Runes](http://www.realm667.com//images/content/repository/itemstore/MedianRunes.png)||
-|[500](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0500.zip)|Ethereal Arrow Bundle|![Ethereal Arrow Bundle](http://www.realm667.com//images/content/repository/itemstore/EtherealArrowBundle.png)||
-|[498](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0498.zip)|Crystal Gem|![Crystal Gem](http://www.realm667.com//images/content/repository/itemstore/CrystalGem.png)||
-|[524](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0524.zip)|Beacon|![Beacon](http://www.realm667.com//images/content/repository/itemstore/Beacon.png)||
-|[565](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0565.zip)|Flares|![Flares](http://www.realm667.com//images/content/repository/itemstore/Flares.png)||
-|[566](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0566.zip)|Super Shield|![Super Shield](http://www.realm667.com//images/content/repository/itemstore/SuperSheild.png)||
-|[576](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0576.zip)|Megapack|![Megapack](http://www.realm667.com//images/content/repository/itemstore/Megapack.png)||
-|[608](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0608.zip)|Armor Shard|![Armor Shard](http://www.realm667.com//images/content/repository/itemstore/ArmorShard.png)||
+|[926](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0926.zip)|Shield Spells|![Shield Spells](http://www.realm667.com//images/content/repository/itemstore/ShieldSpells.png)||
+|[835](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0835.zip)|Sigil Scroll|![Sigil Scroll](http://www.realm667.com//images/content/repository/itemstore/SigilScroll.png)||
+|[689](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0689.zip)|Spiritual Armor Orb|![Spiritual Armor Orb](http://www.realm667.com//images/content/repository/itemstore/SpiritualArmorOrb.png)||
+|[840](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0840.zip)|Spring Mine|![Spring Mine](http://www.realm667.com//images/content/repository/itemstore/SpringMine.png)||
 |[628](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0628.zip)|Stim Bonus|![Stim Bonus](http://www.realm667.com//images/content/repository/itemstore/StimBonus.png)||
-|[656](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0656.zip)|Potion Variants|![Potion Variants](http://www.realm667.com//images/content/repository/itemstore/Potions.png)||
-|[671](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0671.zip)|Food Barrel|![Food Barrel](http://www.realm667.com//images/content/repository/propstop/FoodBarrel.png)||
-|[873](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0873.zip)|Specimen Tank|![Specimen Tank](http://www.realm667.com//images/content/repository/propstop/SpecimenTank.png)||
-|[851](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0851.zip)|Glass Tech Pillars|![Glass Tech Pillars](http://www.realm667.com//images/content/repository/propstop/GlassTechPillar.png)||
-|[834](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0834.zip)|Junk Piles|![Junk Piles](http://www.realm667.com//images/content/repository/propstop/JunkPiles.png)||
-|[780](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0780.zip)|Czech Hedgehog|![Czech Hedgehog](http://www.realm667.com//images/content/repository/propstop/CzechHedgehog.png)||
-|[782](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0782.zip)|Plasma Globe|![Plasma Globe](http://www.realm667.com//images/content/repository/propstop/PlasmaGlobe.png)||
-|[736](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0736.zip)|Oil Drum|![Oil Drum](http://www.realm667.com//images/content/repository/propstop/OilDrum.png)||
-|[714](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0714.zip)|UAC Holograms|![UAC Holograms](http://www.realm667.com//images/content/repository/propstop/UACHolograms.png)||
-|[348](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0348.zip)|Brown Metal Barrel|![Brown Metal Barrel](http://www.realm667.com//images/content/repository/propstop/BrownMetalBarrel.png)||
-|[352](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0352.zip)|Grey Metal Barrel|![Grey Metal Barrel](http://www.realm667.com//images/content/repository/propstop/GreyMetalBarrel.png)||
-|[351](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0351.zip)|Empty Nukage Barrel|![Empty Nukage Barrel](http://www.realm667.com//images/content/repository/propstop/EmptyNukageBarrel.png)||
-|[349](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0349.zip)|Chair|![Chair](http://www.realm667.com//images/content/repository/propstop/Chair.png)||
-|[347](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0347.zip)|Broken Lamp|![Broken Lamp](http://www.realm667.com//images/content/repository/propstop/BrokenLamp.png)||
-|[364](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0364.zip)|Zapper|![Zapper](http://www.realm667.com//images/content/repository/propstop/Zapper.png)||
-|[411](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0411.zip)|Radioactive Barrel|![Radioactive Barrel](http://www.realm667.com//images/content/repository/propstop/RadioactiveBarrel.png)||
-|[421](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0421.zip)|Switchable Tech Lamp|![Switchable Tech Lamp](http://www.realm667.com//images/content/repository/propstop/SwitchableTechLamp.png)||
-|[449](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0449.zip)|Box|![Box](http://www.realm667.com//images/content/repository/propstop/Box.png)||
+|[383](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0383.zip)|SuperStim|![SuperStim](http://www.realm667.com//images/content/repository/itemstore/SuperStim.png)||
+|[566](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0566.zip)|Super Shield|![Super Shield](http://www.realm667.com//images/content/repository/itemstore/SuperSheild.png)||
+|[413](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0413.zip)|Supply Box|![Supply Box](http://www.realm667.com//images/content/repository/itemstore/SupplyBox.png)||
+|[881](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0881.zip)|Swarmers|![Swarmers](http://www.realm667.com//images/content/repository/itemstore/Swarmers.png)||
+|[489](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0489.zip)|Tech Armor|![Tech Armor](http://www.realm667.com//images/content/repository/itemstore/TechArmor.png)||
+|[831](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0831.zip)|Vitality Serum|![Vitality Serum](http://www.realm667.com//images/content/repository/itemstore/VitalitySerum.png)||
+||**Prop Stop: Technical**|||
 |[450](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0450.zip)|Beach Umbrella|![Beach Umbrella](http://www.realm667.com//images/content/repository/propstop/Umbrella.png)||
+|[449](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0449.zip)|Box|![Box](http://www.realm667.com//images/content/repository/propstop/Box.png)||
+|[347](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0347.zip)|Broken Lamp|![Broken Lamp](http://www.realm667.com//images/content/repository/propstop/BrokenLamp.png)||
+|[348](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0348.zip)|Brown Metal Barrel|![Brown Metal Barrel](http://www.realm667.com//images/content/repository/propstop/BrownMetalBarrel.png)||
+|[349](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0349.zip)|Chair|![Chair](http://www.realm667.com//images/content/repository/propstop/Chair.png)||
+|[780](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0780.zip)|Czech Hedgehog|![Czech Hedgehog](http://www.realm667.com//images/content/repository/propstop/CzechHedgehog.png)||
+|[503](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0503.zip)|Doom Doll|![Doom Doll](http://www.realm667.com//images/content/repository/propstop/DoomDoll.png)||
+|[351](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0351.zip)|Empty Nukage Barrel|![Empty Nukage Barrel](http://www.realm667.com//images/content/repository/propstop/EmptyNukageBarrel.png)||
+|[646](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0646.zip)|Food Pieces|![Food Pieces](http://www.realm667.com//images/content/repository/propstop/FoodPieces.png)||
+|[851](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0851.zip)|Glass Tech Pillars|![Glass Tech Pillars](http://www.realm667.com//images/content/repository/propstop/GlassTechPillar.png)||
+|[352](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0352.zip)|Grey Metal Barrel|![Grey Metal Barrel](http://www.realm667.com//images/content/repository/propstop/GreyMetalBarrel.png)||
+|[834](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0834.zip)|Junk Piles|![Junk Piles](http://www.realm667.com//images/content/repository/propstop/JunkPiles.png)||
+|[648](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0648.zip)|Lab Glass Pack|![Lab Glass Pack](http://www.realm667.com//images/content/repository/propstop/LabGlassPack.png)||
 |[458](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0458.zip)|Marine Stuff|![Marine Stuff](http://www.realm667.com//images/content/repository/propstop/MarineStuff.png)||
-|[467](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0467.zip)|Trash Cans|![Trash Cans](http://www.realm667.com//images/content/repository/propstop/TrashCans.png)||
+|[772](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0772.zip)|Necrodome Barrels|![Necrodome Barrels](http://www.realm667.com//images/content/repository/propstop/NecroBarrels.png)||
+|[736](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0736.zip)|Oil Drum|![Oil Drum](http://www.realm667.com//images/content/repository/propstop/OilDrum.png)||
+|[650](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0650.zip)|Pipe Pack|![Pipe Pack](http://www.realm667.com//images/content/repository/propstop/PipePack.png)||
+|[782](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0782.zip)|Plasma Globe|![Plasma Globe](http://www.realm667.com//images/content/repository/propstop/PlasmaGlobe.png)||
+|[411](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0411.zip)|Radioactive Barrel|![Radioactive Barrel](http://www.realm667.com//images/content/repository/propstop/RadioactiveBarrel.png)||
+|[773](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0773.zip)|Sea Mine|![Sea Mine](http://www.realm667.com//images/content/repository/propstop/SeaMine.png)||
+|[873](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0873.zip)|Specimen Tank|![Specimen Tank](http://www.realm667.com//images/content/repository/propstop/SpecimenTank.png)||
+|[421](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0421.zip)|Switchable Tech Lamp|![Switchable Tech Lamp](http://www.realm667.com//images/content/repository/propstop/SwitchableTechLamp.png)||
+|[526](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0526.zip)|Tech Barrels|![Tech Barrels](http://www.realm667.com//images/content/repository/propstop/TechBarrels.png)||
 |[476](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0476.zip)|Tech Gizmos|![Tech Gizmos](http://www.realm667.com//images/content/repository/propstop/Tech Gizmos.png)||
 |[783](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0783.zip)|Tech Gizmos (v2)|![Tech Gizmos (v2)](http://www.realm667.com/None)||
-|[503](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0503.zip)|Doom Doll|![Doom Doll](http://www.realm667.com//images/content/repository/propstop/DoomDoll.png)||
-|[526](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0526.zip)|Tech Barrels|![Tech Barrels](http://www.realm667.com//images/content/repository/propstop/TechBarrels.png)||
 |[529](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0529.zip)|Toilet|![Toilet](http://www.realm667.com//images/content/repository/propstop/toilet.png)||
-|[648](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0648.zip)|Lab Glass Pack|![Lab Glass Pack](http://www.realm667.com//images/content/repository/propstop/LabGlassPack.png)||
-|[650](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0650.zip)|Pipe Pack|![Pipe Pack](http://www.realm667.com//images/content/repository/propstop/PipePack.png)||
-|[646](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0646.zip)|Food Pieces|![Food Pieces](http://www.realm667.com//images/content/repository/propstop/FoodPieces.png)||
-|[772](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0772.zip)|Necrodome Barrels|![Necrodome Barrels](http://www.realm667.com//images/content/repository/propstop/NecroBarrels.png)||
-|[773](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0773.zip)|Sea Mine|![Sea Mine](http://www.realm667.com//images/content/repository/propstop/SeaMine.png)||
+|[467](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0467.zip)|Trash Cans|![Trash Cans](http://www.realm667.com//images/content/repository/propstop/TrashCans.png)||
+|[714](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0714.zip)|UAC Holograms|![UAC Holograms](http://www.realm667.com//images/content/repository/propstop/UACHolograms.png)||
+|[364](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0364.zip)|Zapper|![Zapper](http://www.realm667.com//images/content/repository/propstop/Zapper.png)||
+||**Prop Stop: Vegetation**|||
 |[917](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0917.zip)|Bushes|![Bushes](http://www.realm667.com//images/content/repository/propstop/Bushes.png)||
 |[676](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0676.zip)|Cacti|![Cacti](http://www.realm667.com//images/content/repository/propstop/Cacti.png)||
 |[644](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0644.zip)|Cactus|![Cactus](http://www.realm667.com//images/content/repository/propstop/Cactus_a.png)||
@@ -569,6 +580,7 @@
 |[679](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0679.zip)|Small Trees and Bushes|![Small Trees and Bushes](http://www.realm667.com//images/content/repository/propstop/SmallTreesnBushes.png)||
 |[528](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0528.zip)|Stalagmites and Stalactite|![Stalagmites and Stalactite](http://www.realm667.com//images/content/repository/propstop/Stalagmites.png)||
 |[562](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0562.zip)|Winter Tree Spawner|![Winter Tree Spawner](http://www.realm667.com//images/content/repository/propstop/WinterTreeSpawner.png)||
+||**Prop Stop: Light Sources**|||
 |[819](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0819.zip)|Black Torch|![Black Torch](http://www.realm667.com//images/content/repository/propstop/BlackTorch.png)||
 |[784](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0784.zip)|Bronze Lamps|![Bronze Lamps](http://www.realm667.com//images/content/repository/propstop/BronzeLamps.png)||
 |[801](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0801.zip)|Candle Color Variations|![Candle Color Variations](http://www.realm667.com//images/content/repository/propstop/CandleColorVariations.png)||
@@ -593,6 +605,7 @@
 |[459](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0459.zip)|Torch Variations|![Torch Variations](http://www.realm667.com//images/content/repository/propstop/NewTorches.png)||
 |[700](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0700.zip)|Doom Wall Torches|![Doom Wall Torches](http://www.realm667.com//images/content/repository/propstop/DWallTorches.png)||
 |[363](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0363.zip)|Yellow Lamp|![Yellow Lamp](http://www.realm667.com//images/content/repository/propstop/YellowLamp..png)||
+||**Prop Stop: Gore & Corpses**|||
 |[353](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0353.zip)|Bloody Chain (PSX Doom)|![Bloody Chain (PSX Doom)](http://www.realm667.com//images/content/repository/propstop/PSXBloodyChain.png)||
 |[365](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0365.zip)|Bloody Heads|![Bloody Heads](http://www.realm667.com//images/content/repository/propstop/BloodyHeads.png)||
 |[619](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0619.zip)|Bone Pile|![Bone Pile](http://www.realm667.com//images/content/repository/propstop/BonePile.png)||
@@ -618,7 +631,7 @@
 |[455](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0455.zip)|Hanged Marines|![Hanged Marines](http://www.realm667.com//images/content/repository/propstop/HangedMarines.png)||
 |[431](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0431.zip)|Hanged Player|![Hanged Player](http://www.realm667.com//images/content/repository/propstop/HangedPlayer.png)||
 |[584](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0584.zip)|Hanging Corpse Pack|![Hanging Corpse Pack](http://www.realm667.com//images/content/repository/propstop/HangingCorpsePack.png)||
-|[729](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0729.zip)|HangingDuke|![HangingDuke](http://www.realm667.com//images/content/repository/propstop/HangingDuke.png)||
+|[729](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0729.zip)|Hanging Duke|![Hanging Duke](http://www.realm667.com//images/content/repository/propstop/HangingDuke.png)||
 |[785](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0785.zip)|Hanging Marine Meat|![Hanging Marine Meat](http://www.realm667.com//images/content/repository/propstop/HangingMarineMeat.png)||
 |[531](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0531.zip)|Hanging Marines|![Hanging Marines](http://www.realm667.com//images/content/repository/propstop/HangingMarines.png)||
 |[781](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0781.zip)|Hanging Marines 2|![Hanging Marines 2](http://www.realm667.com//images/content/repository/propstop/HangingMarines2.png)||
@@ -645,11 +658,11 @@
 |[424](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0424.zip)|Tortured Baron|![Tortured Baron](http://www.realm667.com//images/content/repository/propstop/Tortured Baron.png)||
 |[548](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0548.zip)|Upside Down Corpses|![Upside Down Corpses](http://www.realm667.com//images/content/repository/propstop/UpsideDownCorpses.png)||
 |[727](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0727.zip)|Wolfenstein Gore|![Wolfenstein Gore](http://www.realm667.com//images/content/repository/propstop/WolfGore.png)||
-|[660](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0660.zip)|Ancient Hell Pillars|![Ancient Hell Pillars](http://www.realm667.com//images/content/repository/propstop/AncientHellPillars.png)||
+||**Prop Stop: Hell & Magic**|||
+|[728](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0728.zip)|Banners|![Banners](http://www.realm667.com//images/content/repository/propstop/CrimsonBanner.png)||
 |[345](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0345.zip)|Bible|![Bible](http://www.realm667.com//images/content/repository/propstop/Bible.png)||
 |[346](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0346.zip)|Bloody Chalice|![Bloody Chalice](http://www.realm667.com//images/content/repository/propstop/BloodyChalice.png)||
 |[677](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0677.zip)|Ceramic Potery|![Ceramic Potery](http://www.realm667.com//images/content/repository/propstop/CeramicPotery.png)||
-|[728](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0728.zip)|CrimsonBanner|![CrimsonBanner](http://www.realm667.com//images/content/repository/propstop/CrimsonBanner.png)||
 |[882](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0882.zip)|Crow|![Crow](http://www.realm667.com//images/content/repository/propstop/Crow.png)||
 |[616](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0616.zip)|D'Sparil Statue|![D'Sparil Statue](http://www.realm667.com//images/content/repository/propstop/DSparilStatue.png)||
 |[583](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0583.zip)|Doom Statues|![Doom Statues](http://www.realm667.com//images/content/repository/propstop/DoomStatues.png)||
@@ -661,8 +674,9 @@
 |[617](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0617.zip)|Gold Stand Gizmos|![Gold Stand Gizmos](http://www.realm667.com//images/content/repository/propstop/GoldStandGizmos.png)||
 |[474](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0474.zip)|Hell Gizmos|![Hell Gizmos](http://www.realm667.com//images/content/repository/propstop/HellGizmos.png)||
 |[418](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0418.zip)|Hell Growth|![Hell Growth](http://www.realm667.com//images/content/repository/propstop/HellGrowth.png)||
+|[660](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0660.zip)|Hell Pillars|![Hell Pillars](http://www.realm667.com//images/content/repository/propstop/AncientHellPillars.png)||
 |[475](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0475.zip)|Heretic Gizmos|![Heretic Gizmos](http://www.realm667.com//images/content/repository/propstop/HereticGizmos.png)||
-|[698](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0698.zip)|MarbleColumns|![MarbleColumns](http://www.realm667.com//images/content/repository/propstop/Pillars.png)||
+|[698](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0698.zip)|Marble Columns|![Marble Columns](http://www.realm667.com//images/content/repository/propstop/Pillars.png)||
 |[883](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0883.zip)|Marble Urn|![Marble Urn](http://www.realm667.com//images/content/repository/propstop/MarbleUrn.png)||
 |[833](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0833.zip)|Necrodome Tombstones|![Necrodome Tombstones](http://www.realm667.com//images/content/repository/propstop/NecrodomeTombstones.png)||
 |[737](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0737.zip)|Pillar Gizmos|![Pillar Gizmos](http://www.realm667.com//images/content/repository/propstop/PillarGizmos.png)||
@@ -673,32 +687,35 @@
 |[702](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0702.zip)|Strife Bloody Columns|![Strife Bloody Columns](http://www.realm667.com//images/content/repository/propstop/STBloodyColumn.png)||
 |[354](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0354.zip)|Tentacle Barrier|![Tentacle Barrier](http://www.realm667.com//images/content/repository/propstop/TentacleBarrier.png)||
 |[861](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0861.zip)|Warrior Statue|![Warrior Statue](http://www.realm667.com//images/content/repository/propstop/WarriorStatue.png)||
+||**SFX Shoppe: Elemental Effects**|||
 |[335](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0335.zip)|Bubble Boiling|![Bubble Boiling](http://www.realm667.com//images/content/repository/sfxshoppe/BubbleBoiling.png)||
-|[306](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0306.zip)|CloudSpawner|![CloudSpawner](http://www.realm667.com//images/content/repository/sfxshoppe/cloudspawner.png)||
-|[847](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0847.zip)|Doom Terrain Splashes|![Doom Terrain Splashes](http://www.realm667.com//images/content/repository/sfxshoppe/DoomTerrains.png)||
-|[278](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0278.zip)|Ember Spawner|![Ember Spawner](http://www.realm667.com//images/content/repository/sfxshoppe/EmberSpawner.png)||
+|[306](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0306.zip)|Clouds|![Clouds](http://www.realm667.com//images/content/repository/sfxshoppe/cloudspawner.png)||
+|~~[847](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0847.zip)~~|~~Doom Terrain Splashes~~|![Doom Terrain Splashes](http://www.realm667.com//images/content/repository/sfxshoppe/DoomTerrains.png)|Excluded from generated package|
+|[278](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0278.zip)|Ember|![Ember](http://www.realm667.com//images/content/repository/sfxshoppe/EmberSpawner.png)||
 |[280](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0280.zip)|Fire|![Fire](http://www.realm667.com//images/content/repository/sfxshoppe/Fire.png)||
-|[791](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0791.zip)|Fog Spawner|![Fog Spawner](http://www.realm667.com//images/content/repository/sfxshoppe/FogSpawner.png)||
-|[708](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0708.zip)|Lavaball Spawner|![Lavaball Spawner](http://www.realm667.com//images/content/repository/sfxshoppe/LavaBallSpawner.png)||
-|[279](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0279.zip)|Spark Spawner|![Spark Spawner](http://www.realm667.com//images/content/repository/sfxshoppe/SparkSpawner.png)||
+|[791](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0791.zip)|Fog|![Fog](http://www.realm667.com//images/content/repository/sfxshoppe/FogSpawner.png)||
+|[708](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0708.zip)|Lavaball|![Lavaball](http://www.realm667.com//images/content/repository/sfxshoppe/LavaBallSpawner.png)||
+|[279](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0279.zip)|Sparks|![Sparks](http://www.realm667.com//images/content/repository/sfxshoppe/SparkSpawner.png)||
 |[276](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0276.zip)|Steam|![Steam](http://www.realm667.com//images/content/repository/sfxshoppe/steam.png)||
-|[303](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0303.zip)|T667ThunderFX|![T667ThunderFX](http://www.realm667.com//images/content/repository/sfxshoppe/T667ThunFX.png)||
-|[665](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0665.zip)|Terminator Portal|![Terminator Portal](http://www.realm667.com//images/content/repository/sfxshoppe/TPortal.png)||
+|[303](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0303.zip)|Thunder FX|![Thunder FX](http://www.realm667.com//images/content/repository/sfxshoppe/T667ThunFX.png)||
+|[665](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0665.zip)|Thunder Portal|![Thunder Portal](http://www.realm667.com//images/content/repository/sfxshoppe/TPortal.png)||
 |[904](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0904.zip)|Toxic Clouds|![Toxic Clouds](http://www.realm667.com//images/content/repository/sfxshoppe/ToxicClouds.png)||
-|[667](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0667.zip)|Bubbles|![Bubbles](http://www.realm667.com//images/content/repository/sfxshoppe/Bubbles.png)||
+|[667](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0667.zip)|Underwater Bubbles|![Underwater Bubbles](http://www.realm667.com//images/content/repository/sfxshoppe/Bubbles.png)||
+||**SFX Shoppe: Particle Spawners**|||
 |[668](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0668.zip)|Casing Spawners|![Casing Spawners](http://www.realm667.com//images/content/repository/sfxshoppe/CasingSpawners.png)||
 |[662](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0662.zip)|Forcefield Laserbeams|![Forcefield Laserbeams](http://www.realm667.com//images/content/repository/sfxshoppe/Forcefield.png)||
 |[925](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0925.zip)|Fountain of Rejuvenation|![Fountain of Rejuvenation](http://www.realm667.com//images/content/repository/sfxshoppe/RejuvenationFountain.png)||
-|[664](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0664.zip)|SparkleFX|![SparkleFX](http://www.realm667.com//images/content/repository/sfxshoppe/SparkleFX.png)||
+|[664](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0664.zip)|Magic Sparkle|![Magic Sparkle](http://www.realm667.com//images/content/repository/sfxshoppe/SparkleFX.png)||
 |[889](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0889.zip)|Pond Frogs|![Pond Frogs](http://www.realm667.com//images/content/repository/sfxshoppe/PondFrogs.png)||
 |[663](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0663.zip)|PowerRing Pads|![PowerRing Pads](http://www.realm667.com//images/content/repository/sfxshoppe/PowerRingPads.png)||
 |[703](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0703.zip)|Scurrying Rats|![Scurrying Rats](http://www.realm667.com//images/content/repository/sfxshoppe/ScurryingRats.png)||
-|[721](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0721.zip)|Soul Spawner|![Soul Spawner](http://www.realm667.com//images/content/repository/sfxshoppe/SoulSpawner.png)||
-|[277](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0277.zip)|Sparkle Spawner|![Sparkle Spawner](http://www.realm667.com//images/content/repository/sfxshoppe/SparkleSpawner.png)||
+|[721](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0721.zip)|Soul Spawners|![Soul Spawners](http://www.realm667.com//images/content/repository/sfxshoppe/SoulSpawner.png)||
+|[277](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0277.zip)|Sparkle Spawners|![Sparkle Spawners](http://www.realm667.com//images/content/repository/sfxshoppe/SparkleSpawner.png)||
 |[197](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0197.zip)|Stronghold PowerPad|![Stronghold PowerPad](http://www.realm667.com//images/content/repository/sfxshoppe/StrongholdPowerPads.png)||
 |[799](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0799.zip)|Swarm Spawner|![Swarm Spawner](http://www.realm667.com//images/content/repository/sfxshoppe/SwarmSpawner.png)||
 |[870](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0870.zip)|Teleport Smoke Spawner|![Teleport Smoke Spawner](http://www.realm667.com//images/content/repository/sfxshoppe/HexenSmoke.png)||
+||**SFX Shoppe: Weather Generators**|||
 |[666](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0666.zip)|Ash Spawner|![Ash Spawner](http://www.realm667.com//images/content/repository/sfxshoppe/AshSpawner.png)||
-|[707](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0707.zip)|Cinder Spawner|![Cinder Spawner](http://www.realm667.com//images/content/repository/sfxshoppe/CinderSpawner.png)||
+|[707](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0707.zip)|Cinder|![Cinder](http://www.realm667.com//images/content/repository/sfxshoppe/CinderSpawner.png)||
 |[275](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0275.zip)|Rain Simple|![Rain Simple](http://www.realm667.com//images/content/repository/sfxshoppe/rainspawner.png)||
 |[198](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0198.zip)|Snow Simple|![Snow Simple](http://www.realm667.com//images/content/repository/sfxshoppe/SnowSimple.png)||
