@@ -30,4 +30,4 @@
 |[354](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0354.zip)|Tentacle Barrier|![Tentacle Barrier](http://www.realm667.com//images/content/repository/propstop/TentacleBarrier.png)||
 |[861](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0861.zip)|Warrior Statue|![Warrior Statue](http://www.realm667.com//images/content/repository/propstop/WarriorStatue.png)||
 
-[Back to table of content](readme.md)
+[Back to table of content](../readme.md)

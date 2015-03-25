@@ -14,4 +14,4 @@
 |[799](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0799.zip)|Swarm Spawner|![Swarm Spawner](http://www.realm667.com//images/content/repository/sfxshoppe/SwarmSpawner.png)||
 |[870](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0870.zip)|Teleport Smoke Spawner|![Teleport Smoke Spawner](http://www.realm667.com//images/content/repository/sfxshoppe/HexenSmoke.png)||
 
-[Back to table of content](readme.md)
+[Back to table of content](../readme.md)

@@ -24,4 +24,4 @@
 |[510](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0510.zip)|Vile Staff|![Vile Staff](http://www.realm667.com//images/content/repository/armory/VileStaff.png)||
 |[473](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0473.zip)|Wand of Embers|![Wand of Embers](http://www.realm667.com//images/content/repository/armory/WandOfEmbers.png)||
 
-[Back to table of content](readme.md)
+[Back to table of content](../readme.md)

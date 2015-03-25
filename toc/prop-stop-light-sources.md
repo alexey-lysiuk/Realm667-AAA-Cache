@@ -26,4 +26,4 @@
 |[700](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0700.zip)|Doom Wall Torches|![Doom Wall Torches](http://www.realm667.com//images/content/repository/propstop/DWallTorches.png)||
 |[363](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0363.zip)|Yellow Lamp|![Yellow Lamp](http://www.realm667.com//images/content/repository/propstop/YellowLamp..png)||
 
-[Back to table of content](readme.md)
+[Back to table of content](../readme.md)

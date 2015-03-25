@@ -99,4 +99,4 @@
 |[765](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0765.zip)|Winchester Yellowboy|![Winchester Yellowboy](http://www.realm667.com//images/content/repository/armory/Yellowboy.png)||
 |[228](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0228.zip)|Zombieman Rifle|![Zombieman Rifle](http://www.realm667.com//images/content/repository/armory/zombiemanrifle.png)||
 
-[Back to table of content](readme.md)
+[Back to table of content](../readme.md)

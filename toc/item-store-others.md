@@ -60,4 +60,4 @@
 |[489](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0489.zip)|Tech Armor|![Tech Armor](http://www.realm667.com//images/content/repository/itemstore/TechArmor.png)||
 |[831](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0831.zip)|Vitality Serum|![Vitality Serum](http://www.realm667.com//images/content/repository/itemstore/VitalitySerum.png)||
 
-[Back to table of content](readme.md)
+[Back to table of content](../readme.md)
