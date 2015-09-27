@@ -8,6 +8,7 @@
 |[284](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0284.zip)|Arachnobaron|![Arachnobaron](http://www.realm667.com//images/content/repository/beastiary/Arachnobaron.png)||
 |[11](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0011.zip)|Arachnophyte|![Arachnophyte](http://www.realm667.com//images/content/repository/beastiary/Arachnophyte.png)||
 |[285](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0285.zip)|Aracnorb|![Aracnorb](http://www.realm667.com//images/content/repository/beastiary/Aracnorb.png)||
+|[931](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0931.zip)|Aracnorb Queen|![Aracnorb Queen](http://realm667.com//images/content/repository/beastiary/AracnorbQueen.png)||
 |[12](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0012.zip)|Archon of Hell|![Archon of Hell](http://www.realm667.com//images/content/repository/beastiary/ArchonOfHell.png)||
 |[768](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0768.zip)|Augmented Arachnotron|![Augmented Arachnotron](http://www.realm667.com//images/content/repository/beastiary/ArachnotronMK2.png)||
 |[555](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0555.zip)|Auto Shotgun Guy|![Auto Shotgun Guy](http://www.realm667.com//images/content/repository/beastiary/AutoShotgunGuy.png)||
@@ -182,6 +183,7 @@
 |[193](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0193.zip)|Undead Priest|![Undead Priest](http://www.realm667.com//images/content/repository/beastiary/UndeadPriest.png)||
 |[298](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0298.zip)|Unmaker Zombie|![Unmaker Zombie](http://www.realm667.com//images/content/repository/beastiary/UnMakerZombie.png)||
 |[812](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0812.zip)|Volacubi|![Volacubi](http://www.realm667.com//images/content/repository/beastiary/Volacubi.png)||
+|[777](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0777.zip)|Vore|||
 |[100](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0100.zip)|Vulgar|![Vulgar](http://www.realm667.com//images/content/repository/beastiary/Vulgar.png)||
 |[101](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0101.zip)|Warlord of Hell|![Warlord of Hell](http://www.realm667.com//images/content/repository/beastiary/WarlordOfHell.png)||
 |[102](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0102.zip)|Watcher|![Watcher](http://www.realm667.com//images/content/repository/beastiary/Watcher.png)||

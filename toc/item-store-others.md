@@ -54,6 +54,7 @@
 |[840](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0840.zip)|Spring Mine|![Spring Mine](http://www.realm667.com//images/content/repository/itemstore/SpringMine.png)||
 |[628](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0628.zip)|Stim Bonus|![Stim Bonus](http://www.realm667.com//images/content/repository/itemstore/StimBonus.png)||
 |[383](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0383.zip)|SuperStim|![SuperStim](http://www.realm667.com//images/content/repository/itemstore/SuperStim.png)||
+|[930](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0930.zip)|Super Armor Bonus|![Super Armor Bonus](http://realm667.com//images/content/repository/itemstore/SuperArmorBonus.png)||
 |[566](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0566.zip)|Super Shield|![Super Shield](http://www.realm667.com//images/content/repository/itemstore/SuperSheild.png)||
 |[413](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0413.zip)|Supply Box|![Supply Box](http://www.realm667.com//images/content/repository/itemstore/SupplyBox.png)||
 |[881](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0881.zip)|Swarmers|![Swarmers](http://www.realm667.com//images/content/repository/itemstore/Swarmers.png)||
