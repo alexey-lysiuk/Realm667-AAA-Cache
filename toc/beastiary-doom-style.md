@@ -195,6 +195,7 @@
 |[448](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0448.zip)|Zombie Henchman|![Zombie Henchman](http://www.realm667.com//images/content/repository/beastiary/Zombie Henchman.png)||
 |[105](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0105.zip)|Zombie Marine|![Zombie Marine](http://www.realm667.com//images/content/repository/beastiary/ZombieMarine.png)||
 |[911](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0911.zip)|Zombie Missile Tank|![Zombie Missile Tank](http://www.realm667.com//images/content/repository/beastiary/ZombieMissileTank.png)||
+|[946](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0946.zip)|Zombie Plasma Scientist|![Zombie Plasma Scientist](http://realm667.com/images/content/repository/beastiary/ZombieScientistPlasma.png)||
 |[341](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0341.zip)|Zombie Plasma Tank|![Zombie Plasma Tank](http://www.realm667.com//images/content/repository/beastiary/ZombiePlasmaTank.png)||
 |[106](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0106.zip)|Zombie Railgunner|![Zombie Railgunner](http://www.realm667.com//images/content/repository/beastiary/ZombieRailgunner.png)||
 |~~[730](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0730.zip)~~|~~Zombie Scientist~~|![Zombie Scientist](http://www.realm667.com//images/content/repository/beastiary/ZombieScientist.png)|Excluded from generated package|
