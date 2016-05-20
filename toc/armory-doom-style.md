@@ -85,7 +85,7 @@
 |[272](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0272.zip)|Sniper Rifle|![Sniper Rifle](http://www.realm667.com//images/content/repository/armory/SniperRifle.png)||
 |[250](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0250.zip)|SPAS-12|![SPAS-12](http://www.realm667.com//images/content/repository/armory/spas-12.png)||
 |[876](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0876.zip)|Spray Cannon|![Spray Cannon](http://www.realm667.com//images/content/repository/armory/SprayCannon.png)||
-|~~[767](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0767.zip)~~|~~Strife Pistol~~|![Strife Pistol](http://www.realm667.com//images/content/repository/armory/StrifePistol.png)|Excluded from generated package|
+|[767](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0767.zip)|Strife Pistol|![Strife Pistol](http://www.realm667.com//images/content/repository/armory/StrifePistol.png)||
 |[568](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0568.zip)|Stunner Rifle|![Stunner Rifle](http://www.realm667.com//images/content/repository/armory/StunnerRifle.png)||
 |[402](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0402.zip)|Super Shotgun (KDiZD)|![Super Shotgun (KDiZD)](http://www.realm667.com//images/content/repository/armory/kdizdsupershotgun.png)||
 |[273](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/0273.zip)|Swat Shotgun|![Swat Shotgun](http://www.realm667.com//images/content/repository/armory/SwatShotgun.png)||
