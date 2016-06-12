@@ -9,6 +9,7 @@ Git-based cache of assets from www.realm667.com repository used in [Realm667 - A
 [Beastiary: Doom Style](index/beastiary-doom-style.md)  
 [Beastiary: Heretic / Hexen Style](index/beastiary-heretic-and-hexen-style.md)  
 [Beastiary: Strife Style](index/beastiary-strife-style.md)  
+[Beastiary: Other Style](index/beastiary-other-style.md)  
 [Item Store: PowerUps & Artifacts](index/item-store-powerups-and-artifacts.md)  
 [Item Store: Keys & Puzzle](index/item-store-keys-and-puzzle.md)  
 [Item Store: Others](index/item-store-others.md)  

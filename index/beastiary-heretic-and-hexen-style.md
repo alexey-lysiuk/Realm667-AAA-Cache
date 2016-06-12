@@ -20,10 +20,8 @@
 |[915](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0915.zip)|Demon Wizard|![Demon Wizard](http://www.realm667.com//images/content/repository/beastiary/DemonWizard.png)||
 |[39](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0039.zip)|Disciple|![Disciple](http://www.realm667.com//images/content/repository/beastiary/Disciple.png)||
 |[794](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0794.zip)|Disciple (with melee)|![Disciple (with melee)](http://www.realm667.com//images/content/repository/beastiary/MeleeDisciple.png)||
-|[386](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0386.zip)|Evil Knight|![Evil Knight](http://www.realm667.com//images/content/repository/beastiary/EvilKnight.png)||
 |[47](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0047.zip)|Ghoul|![Ghoul](http://www.realm667.com//images/content/repository/beastiary/Ghoul.png)||
 |[745](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0745.zip)|Gold Lich|![Gold Lich](http://www.realm667.com//images/content/repository/beastiary/GoldLich.png)||
-|[336](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0336.zip)|Head Monster|![Head Monster](http://www.realm667.com//images/content/repository/beastiary/HeadMonster.png)||
 |[52](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0052.zip)|Hell Apprentice|![Hell Apprentice](http://www.realm667.com//images/content/repository/beastiary/HellApprentice.png)||
 |[58](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0058.zip)|Hell Guard|![Hell Guard](http://www.realm667.com//images/content/repository/beastiary/HellsGuard.png)||
 |[55](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0055.zip)|Hell Smith|![Hell Smith](http://www.realm667.com//images/content/repository/beastiary/HellSmith.png)||
@@ -36,7 +34,6 @@
 |[62](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0062.zip)|Imp Warlord|![Imp Warlord](http://www.realm667.com//images/content/repository/beastiary/ImpWarlord.png)||
 |[287](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0287.zip)|Inferno Demon|![Inferno Demon](http://www.realm667.com//images/content/repository/beastiary/InfernoDemon.png)||
 |[196](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0196.zip)|Invisible Warrior|![Invisible Warrior](http://www.realm667.com//images/content/repository/beastiary/InvisibleWarrior.png)||
-|[471](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0471.zip)|Juggernaut|![Juggernaut](http://www.realm667.com//images/content/repository/beastiary/Juggernaught.png)||
 |[187](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0187.zip)|Knight Archer|![Knight Archer](http://www.realm667.com//images/content/repository/beastiary/KnightArcher.png)||
 |[493](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0493.zip)|Lava Demon|![Lava Demon](http://www.realm667.com//images/content/repository/beastiary/LavaDemon.png)||
 |[899](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0899.zip)|Lost Spirit|![Lost Spirit](http://www.realm667.com//images/content/repository/beastiary/LostSpirit.png)||
@@ -49,7 +46,6 @@
 |[321](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0321.zip)|Scimitar|![Scimitar](http://www.realm667.com//images/content/repository/beastiary/Scimitar.png)||
 |[81](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0081.zip)|Sentinel|![Sentinel](http://www.realm667.com//images/content/repository/beastiary/Sentinel.png)||
 |[293](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0293.zip)|Shadow Beast|![Shadow Beast](http://www.realm667.com//images/content/repository/beastiary/ShadowBeast.png)||
-|[813](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0813.zip)|Skeleton|![Skeleton](http://www.realm667.com//images/content/repository/beastiary/Skeleton.png)||
 |[95](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0095.zip)|Thor|![Thor](http://www.realm667.com//images/content/repository/beastiary/Thor.png)||
 |[810](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0810.zip)|Undead Knight (Dual Axe)|![Undead Knight (Dual Axe)](http://www.realm667.com//images/content/repository/beastiary/DualAxeWieldingUndeadKnight.png)||
 |[355](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0355.zip)|Vampire|![Vampire](http://www.realm667.com//images/content/repository/beastiary/Vampire.png)||

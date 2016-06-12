@@ -3,7 +3,6 @@
 |---|---|---|---|
 |[657](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0657.zip)|Black Ops|![Black Ops](http://www.realm667.com//images/content/repository/beastiary/BlackOps.png)||
 |[604](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0604.zip)|Dark Inquisitor|![Dark Inquisitor](http://www.realm667.com//images/content/repository/beastiary/DarkInquisitor.png)||
-|[863](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0863.zip)|Elite Guard|![Elite Guard](http://www.realm667.com//images/content/repository/beastiary/EliteGuard.png)||
 |[570](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0570.zip)|Kull Warrior|![Kull Warrior](http://www.realm667.com//images/content/repository/beastiary/KullWarrior.png)||
 |[746](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0746.zip)|Mini Sentinel|![Mini Sentinel](http://www.realm667.com//images/content/repository/beastiary/MiniSentinel.png)||
 |[338](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0338.zip)|Paladin|![Paladin](http://www.realm667.com//images/content/repository/beastiary/Paladin.png)||

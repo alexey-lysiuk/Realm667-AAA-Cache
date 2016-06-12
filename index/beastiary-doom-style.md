@@ -16,7 +16,6 @@
 |[877](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0877.zip)|Baby Cacodemon|![Baby Cacodemon](http://www.realm667.com//images/content/repository/beastiary/BabyCaco.png)||
 |[779](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0779.zip)|Bad|![Bad](http://www.realm667.com//images/content/repository/beastiary/Bad.png)||
 |[185](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0185.zip)|Baphomet's Eyes|![Baphomet's Eyes](http://www.realm667.com//images/content/repository/beastiary/Eyes.png)||
-|[14](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0014.zip)|Bat|![Bat](http://www.realm667.com//images/content/repository/beastiary/Bat.png)||
 |[788](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0788.zip)|Beam Revenant|![Beam Revenant](http://www.realm667.com//images/content/repository/beastiary/BeamRevenant.png)||
 |[550](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0550.zip)|Beam Zombie|![Beam Zombie](http://www.realm667.com//images/content/repository/beastiary/BeamZombie.png)||
 |[317](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0317.zip)|Beheaded Kamikaze|![Beheaded Kamikaze](http://www.realm667.com//images/content/repository/beastiary/BeheadedKamikazi.png)||
@@ -34,7 +33,6 @@
 |[22](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0022.zip)|Chaingun Major|![Chaingun Major](http://www.realm667.com//images/content/repository/beastiary/ChaingunMajor.png)||
 |[194](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0194.zip)|Chaingun Spider|![Chaingun Spider](http://www.realm667.com//images/content/repository/beastiary/ChaingunSpider.png)||
 |[23](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0023.zip)|Chainsaw Zombie|![Chainsaw Zombie](http://www.realm667.com//images/content/repository/beastiary/ChainsawZombie.png)||
-|[436](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0436.zip)|Cheogh|![Cheogh](http://www.realm667.com//images/content/repository/beastiary/Cheogh.png)||
 |[620](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0620.zip)|Chesire Cacodemon|![Chesire Cacodemon](http://www.realm667.com//images/content/repository/beastiary/ChesireCacodemon.png)||
 |[24](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0024.zip)|Core Tentacles|![Core Tentacles](http://www.realm667.com//images/content/repository/beastiary/CoreTentacles.png)||
 |[25](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0025.zip)|Cracko Demon|![Cracko Demon](http://www.realm667.com//images/content/repository/beastiary/CrackoDemon.png)||
@@ -55,7 +53,6 @@
 |[37](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0037.zip)|Devil|![Devil](http://www.realm667.com//images/content/repository/beastiary/Devil.png)||
 |[38](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0038.zip)|Diabolist|![Diabolist](http://www.realm667.com//images/content/repository/beastiary/Diabolist.png)||
 |[40](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0040.zip)|Double Chaingunner|![Double Chaingunner](http://www.realm667.com//images/content/repository/beastiary/DoubleChaingunner.png)||
-|[634](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0634.zip)|Drone|![Drone](http://www.realm667.com//images/content/repository/beastiary/Drone.png)||
 |[41](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0041.zip)|Dune Warrior|![Dune Warrior](http://www.realm667.com//images/content/repository/beastiary/DuneWarrior.png)||
 |[42](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0042.zip)|Enhanced Cacodemon|![Enhanced Cacodemon](http://www.realm667.com//images/content/repository/beastiary/EnhancedCaco.png)||
 |[43](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0043.zip)|Ethereal Soul|![Ethereal Soul](http://www.realm667.com//images/content/repository/beastiary/EtherealSoul.png)||
@@ -73,9 +70,6 @@
 |[865](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0865.zip)|Former Scientists Pack 2|![Former Scientists Pack 2](http://www.realm667.com//images/content/repository/beastiary/FormerScientists2.png)||
 |[333](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0333.zip)|Freezer Zombie|![Freezer Zombie](http://www.realm667.com//images/content/repository/beastiary/FreezerZombie.png)||
 |[46](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0046.zip)|Fusion Spider|![Fusion Spider](http://www.realm667.com//images/content/repository/beastiary/FusionSpider.png)||
-|[621](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0621.zip)|Gatekeeper|![Gatekeeper](http://www.realm667.com//images/content/repository/beastiary/Gatekeeper.png)||
-|[469](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0469.zip)|Giant Bat|![Giant Bat](http://www.realm667.com//images/content/repository/beastiary/GiantBat.png)||
-|[709](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0709.zip)|Giant Rat|![Giant Rat](http://www.realm667.com//images/content/repository/beastiary/GiantRat.png)||
 |[769](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0769.zip)|Grell|![Grell](http://www.realm667.com//images/content/repository/beastiary/Grell.png)||
 |[48](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0048.zip)|Guardian Cube|![Guardian Cube](http://www.realm667.com//images/content/repository/beastiary/GuardianCube.png)||
 |[51](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0051.zip)|Hades Elemental|![Hades Elemental](http://www.realm667.com//images/content/repository/beastiary/Helemental.png)||
@@ -84,8 +78,6 @@
 |[864](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0864.zip)|Hazmat Zombie|![Hazmat Zombie](http://www.realm667.com//images/content/repository/beastiary/HazmatZombie.png)||
 |[605](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0605.zip)|Heaven Guard|![Heaven Guard](http://www.realm667.com//images/content/repository/beastiary/HeavenGuard.png)||
 |[50](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0050.zip)|Hectebus|![Hectebus](http://www.realm667.com//images/content/repository/beastiary/Hectebus.png)||
-|[53](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0053.zip)|Hell Hound|![Hell Hound](http://www.realm667.com//images/content/repository/beastiary/HellHound.png)||
-|[54](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0054.zip)|Hell Rose|![Hell Rose](http://www.realm667.com//images/content/repository/beastiary/HellRose.png)||
 |[56](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0056.zip)|Hell Warrior|![Hell Warrior](http://www.realm667.com//images/content/repository/beastiary/HellWarrior.png)||
 |[57](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0057.zip)|Hell's Fury|![Hell's Fury](http://www.realm667.com//images/content/repository/beastiary/HellsFury.png)||
 |[183](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0183.zip)|Hellion|![Hellion](http://www.realm667.com//images/content/repository/beastiary/Hellion.png)||
@@ -94,21 +86,15 @@
 |[60](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0060.zip)|Illus|![Illus](http://www.realm667.com//images/content/repository/beastiary/Illus.png)||
 |[61](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0061.zip)|Imp Trite|![Imp Trite](http://www.realm667.com//images/content/repository/beastiary/ImpTrite.png)||
 |[477](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0477.zip)|Imp Variants|![Imp Variants](http://www.realm667.com//images/content/repository/beastiary/ImpVariants.png)||
-|[149](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0149.zip)|Incubus|![Incubus](http://www.realm667.com//images/content/repository/beastiary/Incubus.png)||
-|[143](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0143.zip)|Infernal Spider|![Infernal Spider](http://www.realm667.com//images/content/repository/beastiary/InfernalSpider.png)||
 |[63](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0063.zip)|Inferno|![Inferno](http://www.realm667.com//images/content/repository/beastiary/Inferno.png)||
 |[288](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0288.zip)|Jetpack Zombie|![Jetpack Zombie](http://www.realm667.com//images/content/repository/beastiary/JetpackZombie.png)||
 |[553](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0553.zip)|Karasawa Zombie|![Karasawa Zombie](http://www.realm667.com//images/content/repository/beastiary/KarasawaGuy.png)||
 |[150](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0150.zip)|Lesser Mutant|![Lesser Mutant](http://www.realm667.com//images/content/repository/beastiary/LesserMutant.png)||
 |[64](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0064.zip)|Lord of Heresy|![Lord of Heresy](http://www.realm667.com//images/content/repository/beastiary/LordOfHeresy.png)||
-|[622](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0622.zip)|Maephisto|![Maephisto](http://www.realm667.com//images/content/repository/beastiary/Maephisto.png)||
 |[65](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0065.zip)|Mauler Demon|![Mauler Demon](http://www.realm667.com//images/content/repository/beastiary/MaulerDemon.png)||
 |[901](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0901.zip)|Minigunner|![Minigunner](http://www.realm667.com//images/content/repository/beastiary/Minigunner.png)||
-|[318](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0318.zip)|Moloch|![Moloch](http://www.realm667.com//images/content/repository/beastiary/Moloch.png)||
 |[66](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0066.zip)|Nail Borg|![Nail Borg](http://www.realm667.com//images/content/repository/beastiary/NailBorg.png)||
 |[337](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0337.zip)|Nail Borg Commando|![Nail Borg Commando](http://www.realm667.com//images/content/repository/beastiary/NailBorgCommando.png)||
-|[67](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0067.zip)|Netherworld Drone|![Netherworld Drone](http://www.realm667.com//images/content/repository/beastiary/NetherworldDrone.png)||
-|[68](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0068.zip)|Netherworld Queen|![Netherworld Queen](http://www.realm667.com//images/content/repository/beastiary/NetherworldQueen.png)||
 |[69](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0069.zip)|Nightmare|![Nightmare](http://www.realm667.com//images/content/repository/beastiary/Nightmare.png)||
 |[70](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0070.zip)|Nightmare Demon|![Nightmare Demon](http://www.realm667.com//images/content/repository/beastiary/NightmareDemon.png)||
 |[369](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0369.zip)|Nightshade|![Nightshade](http://www.realm667.com//images/content/repository/beastiary/Nightshade.png)||
@@ -125,7 +111,6 @@
 |[339](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0339.zip)|Profane One|![Profane One](http://www.realm667.com//images/content/repository/beastiary/ProfaneOne.png)||
 |[76](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0076.zip)|Psychic Soul|![Psychic Soul](http://www.realm667.com//images/content/repository/beastiary/PsychicSoul.png)||
 |[774](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0774.zip)|Pulse Nailgun Zombie|![Pulse Nailgun Zombie](http://www.realm667.com//images/content/repository/beastiary/PulseNailgunZombie.png)||
-|[625](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0625.zip)|Pustule|![Pustule](http://www.realm667.com//images/content/repository/beastiary/Pustule.png)||
 |[144](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0144.zip)|Pyro Demon|![Pyro Demon](http://www.realm667.com//images/content/repository/beastiary/PyroDemon.png)||
 |[319](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0319.zip)|Pyro Imp|![Pyro Imp](http://www.realm667.com//images/content/repository/beastiary/PyroImp.png)||
 |[798](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0798.zip)|Pyro Zombie|![Pyro Zombie](http://www.realm667.com//images/content/repository/beastiary/PyroZombie.png)||
@@ -146,7 +131,6 @@
 |[575](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0575.zip)|Shade|![Shade](http://www.realm667.com//images/content/repository/beastiary/Shade.png)||
 |[82](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0082.zip)|Shadow|![Shadow](http://www.realm667.com//images/content/repository/beastiary/Shadow.png)||
 |[902](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0902.zip)|Shadow Trooper|![Shadow Trooper](http://www.realm667.com//images/content/repository/beastiary/ShadowTrooper.png)||
-|[811](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0811.zip)|Shark|![Shark](http://www.realm667.com//images/content/repository/beastiary/Shark.png)||
 |[83](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0083.zip)|SlimeImp|![SlimeImp](http://www.realm667.com//images/content/repository/beastiary/SlimeImp.png)||
 |[179](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0179.zip)|Slime Worm|![Slime Worm](http://www.realm667.com//images/content/repository/beastiary/SlimeWorm.png)||
 |[602](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0602.zip)|SMG Zombie|![SMG Zombie](http://www.realm667.com//images/content/repository/beastiary/SMGZombie.png)||
@@ -155,7 +139,6 @@
 |[322](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0322.zip)|Sniper Zombie|![Sniper Zombie](http://www.realm667.com//images/content/repository/beastiary/SniperZombie.png)||
 |[294](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0294.zip)|Sonic Railgun Zombie|![Sonic Railgun Zombie](http://www.realm667.com//images/content/repository/beastiary/SonicRailgunZombie.png)||
 |[85](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0085.zip)|Soul Harvester|![Soul Harvester](http://www.realm667.com//images/content/repository/beastiary/SoulHarvester.png)||
-|[189](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0189.zip)|Source Guardian|![Source Guardian](http://www.realm667.com//images/content/repository/beastiary/SourceGuardian.png)||
 |[86](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0086.zip)|Spirit Imp|![Spirit Imp](http://www.realm667.com//images/content/repository/beastiary/SpiritImp.png)||
 |[307](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0307.zip)|Squire|![Squire](http://www.realm667.com//images/content/repository/beastiary/Squire.png)||
 |[815](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0815.zip)|Stalker|![Stalker](http://www.realm667.com//images/content/repository/beastiary/Stalker.png)||
@@ -176,7 +159,6 @@
 |[749](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0749.zip)|Time Imp|![Time Imp](http://www.realm667.com//images/content/repository/beastiary/TimeImp.png)||
 |[96](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0096.zip)|Tornado Demon|![Tornado Demon](http://www.realm667.com//images/content/repository/beastiary/TornadoDemon.png)||
 |[97](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0097.zip)|Tortured Soul|![Tortured Soul](http://www.realm667.com//images/content/repository/beastiary/TorturedSoul.png)||
-|[623](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0623.zip)|Trash Monster|![Trash Monster](http://www.realm667.com//images/content/repository/beastiary/TrashMonster.png)||
 |[557](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0557.zip)|Trite|![Trite](http://www.realm667.com//images/content/repository/beastiary/Trite.png)||
 |[505](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0505.zip)|UAC Bot|![UAC Bot](http://www.realm667.com//images/content/repository/beastiary/UACBot.png)||
 |[606](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0606.zip)|Undead Hunter|![Undead Hunter](http://www.realm667.com//images/content/repository/beastiary/UndeadHunter.png)||
