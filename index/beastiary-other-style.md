@@ -21,6 +21,7 @@
 |[68](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0068.zip)|Netherworld Queen|![Netherworld Queen](http://www.realm667.com/images/content/repository/beastiary/NetherworldQueen.png)||
 |[625](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0625.zip)|Pustule|![Pustule](http://www.realm667.com/images/content/repository/beastiary/Pustule.png)||
 |[811](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0811.zip)|Shark|![Shark](http://www.realm667.com/images/content/repository/beastiary/Shark.png)||
+|[958](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0958.zip)|Shark with Laser|![Shark with Laser](http://realm667.com/images/content/repository/beastiary/lasershark)||
 |[813](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0813.zip)|Skeleton|![Skeleton](http://www.realm667.com/images/content/repository/beastiary/Skeleton.png)||
 |[189](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0189.zip)|Source Guardian|![Source Guardian](http://www.realm667.com/images/content/repository/beastiary/SourceGuardian.png)||
 |[623](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0623.zip)|Trash Monster|![Trash Monster](http://www.realm667.com/images/content/repository/beastiary/TrashMonster.png)||

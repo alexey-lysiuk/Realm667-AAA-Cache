@@ -3,6 +3,7 @@
 |---|---|---|---|
 |[450](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0450.zip)|Beach Umbrella|![Beach Umbrella](http://www.realm667.com/images/content/repository/propstop/Umbrella.png)||
 |[449](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0449.zip)|Box|![Box](http://www.realm667.com/images/content/repository/propstop/Box.png)||
+|[953](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0953.zip)|Breakable Hydrant|![Breakable Hydrant](http://realm667.com/images/content/repository/propstop/BreakableHydrantVariants.png)||
 |[347](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0347.zip)|Broken Lamp|![Broken Lamp](http://www.realm667.com/images/content/repository/propstop/BrokenLamp.png)||
 |[348](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0348.zip)|Brown Metal Barrel|![Brown Metal Barrel](http://www.realm667.com/images/content/repository/propstop/BrownMetalBarrel.png)||
 |[349](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0349.zip)|Chair|![Chair](http://www.realm667.com/images/content/repository/propstop/Chair.png)||

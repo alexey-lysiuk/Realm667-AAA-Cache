@@ -17,6 +17,7 @@
 |[823](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0823.zip)|Crusader Shield|![Crusader Shield](http://www.realm667.com/images/content/repository/itemstore/CrusaderShield.png)||
 |[498](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0498.zip)|Crystal Gem|![Crystal Gem](http://www.realm667.com/images/content/repository/itemstore/CrystalGem.png)||
 |[417](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0417.zip)|Deployable Sentry Gun|![Deployable Sentry Gun](http://www.realm667.com/images/content/repository/itemstore/DeployableSentryGun.png)||
+|[957](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0957.zip)|Deployable Shield|![Deployable Shield](http://realm667.com/images/content/repository/itemstore/DeployableShield.png)||
 |[691](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0691.zip)|Electric Bolt Bundle|![Electric Bolt Bundle](http://www.realm667.com/images/content/repository/itemstore/ElectricBoltBundle.png)||
 |[787](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0787.zip)|Electric Pod|![Electric Pod](http://www.realm667.com/images/content/repository/itemstore/ElectricPod.png)||
 |[860](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0860.zip)|Elemental Gems|![Elemental Gems](http://www.realm667.com/images/content/repository/itemstore/ElementalGems.png)||
@@ -31,6 +32,7 @@
 |[869](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0869.zip)|Jump Boots|![Jump Boots](http://www.realm667.com/images/content/repository/itemstore/JumpBoots.png)||
 |[478](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0478.zip)|Heavy Armor|![Heavy Armor](http://www.realm667.com/images/content/repository/itemstore/HeavyArmor.png)||
 |[896](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0896.zip)|Magic Apples|![Magic Apples](http://www.realm667.com/images/content/repository/itemstore/MagicApples.png)||
+|[956](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0956.zip)|Marine Supply Pack|![Marine Supply Pack](http://realm667.com/images/content/repository/itemstore/Marine_Supply_Pack.png)||
 |[502](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0502.zip)|Median Runes|![Median Runes](http://www.realm667.com/images/content/repository/itemstore/MedianRunes.png)||
 |[875](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0875.zip)|Medical Backpack|![Medical Backpack](http://www.realm667.com/images/content/repository/itemstore/MedicalBackpack.png)||
 |[371](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0371.zip)|Medipack|![Medipack](http://www.realm667.com/images/content/repository/itemstore/Medipack.png)||

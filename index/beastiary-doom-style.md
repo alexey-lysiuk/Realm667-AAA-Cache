@@ -74,6 +74,7 @@
 |[48](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0048.zip)|Guardian Cube|![Guardian Cube](http://www.realm667.com/images/content/repository/beastiary/GuardianCube.png)||
 |[51](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0051.zip)|Hades Elemental|![Hades Elemental](http://www.realm667.com/images/content/repository/beastiary/Helemental.png)||
 |[49](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0049.zip)|Hades Sphere|![Hades Sphere](http://www.realm667.com/images/content/repository/beastiary/HadesSphere.png)||
+|[952](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0952.zip)|Haedexebus|![Haedexebus](http://realm667.com/images/content/repository/beastiary/Haedexebus.png)||
 |[191](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0191.zip)|Hangman|![Hangman](http://www.realm667.com/images/content/repository/beastiary/Hangman.png)||
 |[864](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0864.zip)|Hazmat Zombie|![Hazmat Zombie](http://www.realm667.com/images/content/repository/beastiary/HazmatZombie.png)||
 |[605](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0605.zip)|Heaven Guard|![Heaven Guard](http://www.realm667.com/images/content/repository/beastiary/HeavenGuard.png)||
@@ -97,6 +98,7 @@
 |[337](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0337.zip)|Nail Borg Commando|![Nail Borg Commando](http://www.realm667.com/images/content/repository/beastiary/NailBorgCommando.png)||
 |[69](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0069.zip)|Nightmare|![Nightmare](http://www.realm667.com/images/content/repository/beastiary/Nightmare.png)||
 |[70](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0070.zip)|Nightmare Demon|![Nightmare Demon](http://www.realm667.com/images/content/repository/beastiary/NightmareDemon.png)||
+|[954](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0954.zip)|Nightmare Spectre|![Nightmare Spectre](http://realm667.com/images/content/repository/beastiary/NightmareSpectre.png)||
 |[369](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0369.zip)|Nightshade|![Nightshade](http://www.realm667.com/images/content/repository/beastiary/Nightshade.png)||
 |[72](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0072.zip)|Obsidian Statue|![Obsidian Statue](http://www.realm667.com/images/content/repository/beastiary/ObsidianStatue.png)||
 |[289](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0289.zip)|Overlord|![Overlord](http://www.realm667.com/images/content/repository/beastiary/Overlord.png)||
