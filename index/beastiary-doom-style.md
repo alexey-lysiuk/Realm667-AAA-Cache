@@ -167,7 +167,7 @@
 |[193](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0193.zip)|Undead Priest|![Undead Priest](http://www.realm667.com/images/content/repository/beastiary/UndeadPriest.png)||
 |[298](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0298.zip)|Unmaker Zombie|![Unmaker Zombie](http://www.realm667.com/images/content/repository/beastiary/UnMakerZombie.png)||
 |[812](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0812.zip)|Volacubi|![Volacubi](http://www.realm667.com/images/content/repository/beastiary/Volacubi.png)||
-|[777](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0777.zip)|Vore|![Vore](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/toc/vore.png)|Removed from Repository|
+|[777](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0777.zip)|Vore|![Vore](images/vore.png)|Removed from Repository|
 |[100](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0100.zip)|Vulgar|![Vulgar](http://www.realm667.com/images/content/repository/beastiary/Vulgar.png)||
 |[101](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0101.zip)|Warlord of Hell|![Warlord of Hell](http://www.realm667.com/images/content/repository/beastiary/WarlordOfHell.png)||
 |[102](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0102.zip)|Watcher|![Watcher](http://www.realm667.com/images/content/repository/beastiary/Watcher.png)||
