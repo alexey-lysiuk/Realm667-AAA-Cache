@@ -4,7 +4,7 @@
 |[728](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0728.zip)|Banners|![Banners](images/propstop/crimsonbanner.png)||
 |[345](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0345.zip)|Bible|![Bible](images/propstop/bible.png)||
 |[346](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0346.zip)|Bloody Chalice|![Bloody Chalice](images/propstop/bloodychalice.png)||
-|[677](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0677.zip)|Ceramic Potery|![Ceramic Potery](images/propstop/ceramicpotery.png)||
+|[677](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0677.zip)|Ceramic Pottery|![Ceramic Potery](images/propstop/ceramicpotery.png)||
 |[959](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0959.zip)|Chaos Sphere|![Chaos Sphere](images/propstop/chaossphere.png)||
 |[882](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0882.zip)|Crow|![Crow](images/propstop/crow.png)||
 |[616](https://github.com/alexey-lysiuk/Realm667-AAA-Cache/raw/master/data/0616.zip)|D'Sparil Statue|![D'Sparil Statue](images/propstop/dsparilstatue.png)||
