@@ -9,6 +9,7 @@
 |[404](../data/0404.zip)|Enforcer|![Enforcer](images/armory/enforcer(pistol).png)||
 |[236](../data/0236.zip)|Flare Gun|![Flare Gun](images/armory/flaregun.png)||
 |[686](../data/0686.zip)|G3|![G3](images/armory/g3.png)||
+|[970](../data/0970.zip)|Heat-Seeker Launcher|![Heat-Seeker Launcher](images/armory/heat-seekerlauncher.png)||
 |[263](../data/0263.zip)|Hunter Shotgun|![Hunter Shotgun](images/armory/huntershotgun.png)||
 |[536](../data/0536.zip)|Jackbomb|![Jackbomb](images/armory/jackbomb.png)||
 |[238](../data/0238.zip)|M60|![M60](images/armory/m60.png)||
