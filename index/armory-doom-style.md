@@ -30,6 +30,7 @@
 |[541](../data/0541.zip)|Flamethrower|![Flamethrower](images/armory/flamethrower.png)||
 |[913](../data/0913.zip)|Flashlight|![Flashlight](images/armory/flashlight.png)||
 |[242](../data/0242.zip)|Freeze Rifle|![Freeze Rifle](images/armory/freezerifle.png)||
+|[973](../data/0973.zip)|Gatling Laser|![Gatling Laser](images/armory/gatlinglaser.png)||
 |[559](../data/0559.zip)|Glock 18|![Glock 18](images/armory/glock18.png)||
 |[373](../data/0373.zip)|Grenade Launcher|![Grenade Launcher](images/armory/stgrenadelauncher.png)||
 |[406](../data/0406.zip)|Grenade Launcher (KDiZD)|![Grenade Launcher (KDiZD)](images/armory/grenadelauncher(kdizd).png)||
