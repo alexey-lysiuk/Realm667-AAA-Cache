@@ -52,6 +52,7 @@
 |[633](../data/0633.zip)|Devastator Zombie|![Devastator Zombie](images/beastiary/devastatorzombie.png)||
 |[37](../data/0037.zip)|Devil|![Devil](images/beastiary/devil.png)||
 |[38](../data/0038.zip)|Diabolist|![Diabolist](images/beastiary/diabolist.png)||
+|[974](../data/0974.zip)|Divine Shadow|![Divine Shadow](images/beastiary/divineshadow.png)||
 |[40](../data/0040.zip)|Double Chaingunner|![Double Chaingunner](images/beastiary/doublechaingunner.png)||
 |[41](../data/0041.zip)|Dune Warrior|![Dune Warrior](images/beastiary/dunewarrior.png)||
 |[42](../data/0042.zip)|Enhanced Cacodemon|![Enhanced Cacodemon](images/beastiary/enhancedcaco.png)||
