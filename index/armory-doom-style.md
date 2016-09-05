@@ -7,6 +7,7 @@
 |[516](../data/0516.zip)|AK47|![AK47](images/armory/ak47.png)||
 |[685](../data/0685.zip)|Ammo Satchel|![Ammo Satchel](images/armory/ammosatchel.png)||
 |[534](../data/0534.zip)|Angled Pistol|![Angled Pistol](images/armory/angledpistol.png)||
+|[972](../data/0972.zip)|Auto Shotgun|![Auto Shotgun](images/armory/autoshotgun.png)||
 |[432](../data/0432.zip)|Autogun|![Autogun](images/armory/autogun.png)||
 |[884](../data/0884.zip)|Axe|![Axe](images/armory/axe.png)||
 |[874](../data/0874.zip)|BFG 2704|![BFG 2704](images/armory/bfg2704.png)||
