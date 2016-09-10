@@ -79,6 +79,7 @@
 |[191](../data/0191.zip)|Hangman|![Hangman](images/beastiary/hangman.png)||
 |[864](../data/0864.zip)|Hazmat Zombie|![Hazmat Zombie](images/beastiary/hazmatzombie.png)||
 |[605](../data/0605.zip)|Heaven Guard|![Heaven Guard](images/beastiary/heavenguard.png)||
+|[979](../data/0979.zip)|Heavy Carbine Zombieman|![Heavy Carbine Zombieman](images/beastiary/heavycarbineguy.png)||
 |[50](../data/0050.zip)|Hectebus|![Hectebus](images/beastiary/hectebus.png)||
 |[56](../data/0056.zip)|Hell Warrior|![Hell Warrior](images/beastiary/hellwarrior.png)||
 |[57](../data/0057.zip)|Hell's Fury|![Hell's Fury](images/beastiary/hellsfury.png)||
