@@ -35,6 +35,7 @@
 |[373](../data/0373.zip)|Grenade Launcher|![Grenade Launcher](images/armory/stgrenadelauncher.png)||
 |[406](../data/0406.zip)|Grenade Launcher (KDiZD)|![Grenade Launcher (KDiZD)](images/armory/grenadelauncher(kdizd).png)||
 |[254](../data/0254.zip)|HandGrenade|![HandGrenade](images/armory/handgrenade.png)||
+|[977](../data/0977.zip)|Heavy Carbine|![Heavy Carbine](images/armory/heavycarbine.png)||
 |[760](../data/0760.zip)|Heavy Chaingun|![Heavy Chaingun](images/armory/hchaingun.png)||
 |[803](../data/0803.zip)|Heavy Machinegun|![Heavy Machinegun](images/armory/heavymachinegun.png)||
 |[255](../data/0255.zip)|Heavy Rifle|![Heavy Rifle](images/armory/heavyrifle.png)||
