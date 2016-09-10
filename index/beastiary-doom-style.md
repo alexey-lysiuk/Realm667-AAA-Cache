@@ -93,6 +93,7 @@
 |[553](../data/0553.zip)|Karasawa Zombie|![Karasawa Zombie](images/beastiary/karasawaguy.png)||
 |[150](../data/0150.zip)|Lesser Mutant|![Lesser Mutant](images/beastiary/lessermutant.png)||
 |[64](../data/0064.zip)|Lord of Heresy|![Lord of Heresy](images/beastiary/lordofheresy.png)||
+|[978](../data/0978.zip)|Machinegun Zombieman|![Machinegun Zombieman](images/beastiary/machinegunzombie.png)||
 |[65](../data/0065.zip)|Mauler Demon|![Mauler Demon](images/beastiary/maulerdemon.png)||
 |[901](../data/0901.zip)|Minigunner|![Minigunner](images/beastiary/minigunner.png)||
 |[66](../data/0066.zip)|Nail Borg|![Nail Borg](images/beastiary/nailborg.png)||
