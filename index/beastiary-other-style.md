@@ -3,6 +3,7 @@
 |---|---|---|---|
 |[14](../data/0014.zip)|Bat|![Bat](images/beastiary/bat.png)||
 |[436](../data/0436.zip)|Cheogh|![Cheogh](images/beastiary/cheogh.png)||
+|[980](../data/0980.zip)|Daggerfall Skeleton|![Daggerfall Skeleton](images/beastiary/dagfallskeleton.png)||
 |[634](../data/0634.zip)|Drone|![Drone](images/beastiary/drone.png)||
 |[863](../data/0863.zip)|Elite Guard|![Elite Guard](images/beastiary/eliteguard.png)||
 |[386](../data/0386.zip)|Evil Knight|![Evil Knight](images/beastiary/evilknight.png)||
