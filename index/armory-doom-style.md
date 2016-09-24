@@ -23,6 +23,7 @@
 |[308](../data/0308.zip)|Doom 3 SSG|![Doom 3 SSG](images/armory/doom3ssg.png)||
 |[520](../data/0520.zip)|Double Bladed Chainsaw|![Double Bladed Chainsaw](images/armory/doublebladechainsaw.png)||
 |[344](../data/0344.zip)|Double Grenade Launcher|![Double Grenade Launcher](images/armory/doublegrenadelauncher.png)||
+|[983](../data/0983.zip)|Dual Barrel Laser Rifle|![Dual Barrel Laser Rifle](images/armory/duallaser.png)||
 |[409](../data/0409.zip)|Duke Shotgun|![Duke Shotgun](images/armory/dukeshotgun.png)||
 |[246](../data/0246.zip)|Ego Smasher|![Ego Smasher](images/armory/egosmasher.png)||
 |[262](../data/0262.zip)|Electro Gun|![Electro Gun](images/armory/electrogun.png)||
