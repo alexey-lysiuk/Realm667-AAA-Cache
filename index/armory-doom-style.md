@@ -67,6 +67,7 @@
 |[232](../data/0232.zip)|Plasma Beam|![Plasma Beam](images/armory/plasmabeam.png)||
 |[313](../data/0313.zip)|Plasma Bolter|![Plasma Bolter](images/armory/plasmabolter.png)||
 |[763](../data/0763.zip)|Plasma Pistol|![Plasma Pistol](images/armory/plasmapistol.png)||
+|[984](../data/0984.zip)|Plasma Repeater|![Plasma Repeater](images/armory/plasmarepeater.png)||
 |[329](../data/0329.zip)|Plasma Shotgun|![Plasma Shotgun](images/armory/plasmashotgun.png)||
 |[509](../data/0509.zip)|Prox Launcher|![Prox Launcher](images/armory/proxlauncher.png)||
 |[764](../data/0764.zip)|Pulse Nailgun|![Pulse Nailgun](images/armory/pulsenailgun.png)||
