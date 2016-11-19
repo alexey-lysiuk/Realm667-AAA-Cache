@@ -80,6 +80,7 @@
 |[561](../data/0561.zip)|Reaper|![Reaper](images/armory/reaper.png)||
 |[567](../data/0567.zip)|Repeater|![Repeater](images/armory/repeater.png)||
 |[407](../data/0407.zip)|Rifle|![Rifle](images/armory/rifle.png)||
+|[990](../data/0990.zip)|Riot Nerve Gas Launcher|![Riot Nerve Gas Launcher](images/armory/nervegaslauncher.png)||
 |[857](../data/0857.zip)|Rivet Gun|![Rivet Gun](images/armory/rivetgun.png)||
 |[886](../data/0886.zip)|Scatter Pistol|![Scatter Pistol](images/armory/scatterpistol.png)||
 |[368](../data/0368.zip)|Shield Gun|![Shield Gun](images/armory/shieldgun.png)||
