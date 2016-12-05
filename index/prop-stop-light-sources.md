@@ -10,6 +10,7 @@
 |[699](../data/0699.zip)|Doom64 Torches|![Doom64 Torches](images/propstop/d64_torches.png)||
 |[871](../data/0871.zip)|Fire Bowl|![Fire Bowl](images/propstop/firebowl.png)||
 |[820](../data/0820.zip)|Firewood|![Firewood](images/propstop/firewood.png)||
+|[992](../data/0992.zip)|Fire Pillars (Strife)|![Fire Pillars (Strife)](images/propstop/strifefirepillars.png)||
 |[821](../data/0821.zip)|Golden Eagle Statue|![Golden Eagle Statue](images/propstop/goldeneaglestatue.png)||
 |[357](../data/0357.zip)|Grey Lamp|![Grey Lamp](images/propstop/greylamp.png)||
 |[549](../data/0549.zip)|Lamps|![Lamps](images/propstop/lamps.png)||
