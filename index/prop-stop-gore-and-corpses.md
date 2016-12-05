@@ -36,6 +36,7 @@
 |[547](../data/0547.zip)|Impaled Corpses|![Impaled Corpses](images/propstop/impaledcorpses.png)||
 |[906](../data/0906.zip)|Impaled Dog Heads|![Impaled Dog Heads](images/propstop/impaleddogheads.png)||
 |[504](../data/0504.zip)|Impaled Marines|![Impaled Marines](images/propstop/impaledmarines.png)||
+|[991](../data/0991.zip)|Impaled Rebels|![Impaled Rebels](images/propstop/impaledrebels.png)||
 |[405](../data/0405.zip)|Impaled Rocket Guy|![Impaled Rocket Guy](images/propstop/impaledrocketguy.png)||
 |[822](../data/0822.zip)|Impaled Scientists|![Impaled Scientists](images/propstop/impaledscientists.png)||
 |[441](../data/0441.zip)|Marine Corpses|![Marine Corpses](images/propstop/marinecorpses.png)||
