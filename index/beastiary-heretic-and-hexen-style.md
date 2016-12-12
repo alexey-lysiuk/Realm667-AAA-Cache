@@ -44,6 +44,7 @@
 |[846](../data/0846.zip)|Pyro Succubus|![Pyro Succubus](images/beastiary/pyrosuccubus.png)||
 |[494](../data/0494.zip)|Rot Wraith|![Rot Wraith](images/beastiary/rotwraith.png)||
 |[321](../data/0321.zip)|Scimitar|![Scimitar](images/beastiary/scimitar.png)||
+|[993](../data/0993.zip)|Sentient Mushroom|![Sentient Mushroom](images/beastiary/sentientmushroom.png)||
 |[81](../data/0081.zip)|Sentinel|![Sentinel](images/beastiary/sentinel.png)||
 |[293](../data/0293.zip)|Shadow Beast|![Shadow Beast](images/beastiary/shadowbeast.png)||
 |[95](../data/0095.zip)|Thor|![Thor](images/beastiary/thor.png)||
