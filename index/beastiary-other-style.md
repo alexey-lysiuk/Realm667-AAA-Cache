@@ -7,6 +7,7 @@
 |[634](../data/0634.zip)|Drone|![Drone](images/beastiary/drone.png)||
 |[863](../data/0863.zip)|Elite Guard|![Elite Guard](images/beastiary/eliteguard.png)||
 |[386](../data/0386.zip)|Evil Knight|![Evil Knight](images/beastiary/evilknight.png)||
+|[994](../data/0994.pk3)|Fire Serpents|![Fire Serpents](images/beastiary/fireserpent.png)||
 |[621](../data/0621.zip)|Gatekeeper|![Gatekeeper](images/beastiary/gatekeeper.png)||
 |[469](../data/0469.zip)|Giant Bat|![Giant Bat](images/beastiary/giantbat.png)||
 |[709](../data/0709.zip)|Giant Rat|![Giant Rat](images/beastiary/giantrat.png)||
