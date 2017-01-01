@@ -3,7 +3,7 @@
 |---|---|---|---|
 |[819](../data/0819.zip)|Black Torch|![Black Torch](images/propstop/blacktorch.png)||
 |[784](../data/0784.zip)|Bronze Lamps|![Bronze Lamps](images/propstop/bronzelamps.png)||
-|[801](../data/0801.zip)|Candle Color Variations|![Candle Color Variations](images/propstop/candlecolorvariations.png)||
+|[801](../data/0801.rar)|Candle Color Variations|![Candle Color Variations](images/propstop/candlecolorvariations.png)||
 |[586](../data/0586.zip)|Ceiling Lamp|![Ceiling Lamp](images/propstop/ceilinglamp.png)||
 |[517](../data/0517.zip)|Chandelier Pack|![Chandelier Pack](images/propstop/chandelierpack.png)||
 |[715](../data/0715.zip)|Doom64 Lamps|![Doom64 Lamps](images/propstop/d64lamps.png)||
